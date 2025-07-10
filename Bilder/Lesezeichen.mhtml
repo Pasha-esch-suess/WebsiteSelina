@@ -1,0 +1,1574 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: chrome://bookmarks/?id=120
+Subject: Lesezeichen
+Date: Wed, 5 Mar 2025 09:06:06 +0100
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--jJph5AaycGpDKDJo6uCMZzobjsFP9jVBlCpSn9BNv6----"
+
+
+------MultipartBoundary--jJph5AaycGpDKDJo6uCMZzobjsFP9jVBlCpSn9BNv6----
+Content-Type: text/html
+Content-ID: <frame-A08DE6D33BE4F28208CAA5C227FD8038@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://bookmarks/?id=120
+
+<!DOCTYPE html><html dir=3D"ltr" lang=3D"de" class=3D"focus-outline-visible=
+"><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DU=
+TF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-d10d648d-8=
+475-4f06-936a-5c2d655a61f1@mhtml.blink" />
+ =20
+  <meta name=3D"color-scheme" content=3D"light dark">
+  <base href=3D"chrome://bookmarks/">
+  <title>Lesezeichen</title>
+  <link rel=3D"stylesheet" href=3D"chrome://resources/css/md_colors.css">
+ =20
+<cr-iconset name=3D"cr20" size=3D"20"><template shadowmode=3D"open"><!---->
+<svg id=3D"baseSvg" xmlns=3D"http://www.w3.org/2000/svg" preserveAspectRati=
+o=3D"xMidYMid meet" focusable=3D"false" style=3D"pointer-events: none; disp=
+lay: block; width: 100%; height: 100%;" viewBox=3D"0 0 20 20">
+ </svg>
+<slot></slot>
+</template>
+  <svg>
+    <defs>
+      <!--
+      Keep these in sorted order by id=3D"".
+      -->
+      <g id=3D"block">
+        <path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M10 0C4.48 0=
+ 0 4.48 0 10C0 15.52 4.48 20 10 20C15.52 20 20 15.52 20 10C20 4.48 15.52 0 =
+10 0ZM2 10C2 5.58 5.58 2 10 2C11.85 2 13.55 2.63 14.9 3.69L3.69 14.9C2.63 1=
+3.55 2 11.85 2 10ZM5.1 16.31C6.45 17.37 8.15 18 10 18C14.42 18 18 14.42 18 =
+10C18 8.15 17.37 6.45 16.31 5.1L5.1 16.31Z">
+        </path>
+      </g>
+      <g id=3D"cloud-off">
+        <path d=3D"M16 18.125L13.875 16H5C3.88889 16 2.94444 15.6111 2.1666=
+7 14.8333C1.38889 14.0556 1 13.1111 1 12C1 10.9444 1.36111 10.0347 2.08333 =
+9.27083C2.80556 8.50694 3.6875 8.09028 4.72917 8.02083C4.77083 7.86805 4.81=
+25 7.72222 4.85417 7.58333C4.90972 7.44444 4.97222 7.30555 5.04167 7.16667L=
+1.875 4L2.9375 2.9375L17.0625 17.0625L16 18.125ZM5 14.5H12.375L6.20833 8.33=
+333C6.15278 8.51389 6.09722 8.70139 6.04167 8.89583C6 9.07639 5.95139 9.256=
+94 5.89583 9.4375L4.83333 9.52083C4.16667 9.57639 3.61111 9.84028 3.16667 1=
+0.3125C2.72222 10.7708 2.5 11.3333 2.5 12C2.5 12.6944 2.74306 13.2847 3.229=
+17 13.7708C3.71528 14.2569 4.30556 14.5 5 14.5ZM17.5 15.375L16.3958 14.2917=
+C16.7153 14.125 16.9792 13.8819 17.1875 13.5625C17.3958 13.2431 17.5 12.888=
+9 17.5 12.5C17.5 11.9444 17.3056 11.4722 16.9167 11.0833C16.5278 10.6944 16=
+.0556 10.5 15.5 10.5H14.125L14 9.14583C13.9028 8.11806 13.4722 7.25694 12.7=
+083 6.5625C11.9444 5.85417 11.0417 5.5 10 5.5C9.65278 5.5 9.31944 5.54167 9=
+ 5.625C8.69444 5.70833 8.39583 5.82639 8.10417 5.97917L7.02083 4.89583C7.46=
+528 4.61806 7.93056 4.40278 8.41667 4.25C8.91667 4.08333 9.44444 4 10 4C11.=
+4306 4 12.6736 4.48611 13.7292 5.45833C14.7847 6.41667 15.375 7.59722 15.5 =
+9C16.4722 9 17.2986 9.34028 17.9792 10.0208C18.6597 10.7014 19 11.5278 19 1=
+2.5C19 13.0972 18.8611 13.6458 18.5833 14.1458C18.3194 14.6458 17.9583 15.0=
+556 17.5 15.375Z">
+        </path>
+      </g>
+      <g id=3D"delete">
+        <path d=3D"M 5.832031 17.5 C 5.375 17.5 4.984375 17.335938 4.65625 =
+17.011719 C 4.328125 16.683594 4.167969 16.292969 4.167969 15.832031 L 4.16=
+7969 5 L 3.332031 5 L 3.332031 3.332031 L 7.5 3.332031 L 7.5 2.5 L 12.5 2.5=
+ L 12.5 3.332031 L 16.667969 3.332031 L 16.667969 5 L 15.832031 5 L 15.8320=
+31 15.832031 C 15.832031 16.292969 15.671875 16.683594 15.34375 17.011719 C=
+ 15.015625 17.335938 14.625 17.5 14.167969 17.5 Z M 14.167969 5 L 5.832031 =
+5 L 5.832031 15.832031 L 14.167969 15.832031 Z M 7.5 14.167969 L 9.167969 1=
+4.167969 L 9.167969 6.667969 L 7.5 6.667969 Z M 10.832031 14.167969 L 12.5 =
+14.167969 L 12.5 6.667969 L 10.832031 6.667969 Z M 5.832031 5 L 5.832031 15=
+.832031 Z M 5.832031 5 ">
+        </path>
+      </g>
+      <g id=3D"domain" viewBox=3D"0 -960 960 960">
+        <path d=3D"M96-144v-672h384v144h384v528H96Zm72-72h72v-72h-72v72Zm0-=
+152h72v-72h-72v72Zm0-152h72v-72h-72v72Zm0-152h72v-72h-72v72Zm168 456h72v-72=
+h-72v72Zm0-152h72v-72h-72v72Zm0-152h72v-72h-72v72Zm0-152h72v-72h-72v72Zm144=
+ 456h312v-384H480v80h72v72h-72v80h72v72h-72v80Zm168-232v-72h72v72h-72Zm0 15=
+2v-72h72v72h-72Z"></path>
+      </g>
+      <g id=3D"kite">
+        <path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M4.6327 8.00=
+094L10.3199 2L16 8.00094L10.1848 16.8673C10.0995 16.9873 10.0071 17.1074 9.=
+90047 17.2199C9.42417 17.7225 8.79147 18 8.11611 18C7.44076 18 6.80806 17.7=
+225 6.33175 17.2199C5.85545 16.7173 5.59242 16.0497 5.59242 15.3371C5.59242=
+ 14.977 5.46445 14.647 5.22275 14.3919C4.98104 14.1369 4.66825 14.0019 4.32=
+701 14.0019H4V12.6667H4.32701C5.00237 12.6667 5.63507 12.9442 6.11137 13.44=
+68C6.58768 13.9494 6.85071 14.617 6.85071 15.3296C6.85071 15.6896 6.97867 1=
+6.0197 7.22038 16.2747C7.46209 16.5298 7.77488 16.6648 8.11611 16.6648C8.45=
+735 16.6648 8.77014 16.5223 9.01185 16.2747C9.02396 16.2601 9.03607 16.246 =
+9.04808 16.2319C9.08541 16.1883 9.12176 16.1458 9.15403 16.0947L9.55213 15.=
+4946L4.6327 8.00094ZM10.3199 13.9371L6.53802 8.17116L10.3199 4.1814L14.0963=
+ 8.17103L10.3199 13.9371Z">
+        </path>
+      </g>
+      <g id=3D"menu">
+        <path d=3D"M2 4h16v2H2zM2 9h16v2H2zM2 14h16v2H2z"></path>
+      </g>
+      <g id=3D"password">
+        <path d=3D"M5.833 11.667c.458 0 .847-.16 1.167-.479.333-.333.5-.729=
+.5-1.188s-.167-.847-.5-1.167a1.555 1.555 0 0 0-1.167-.5c-.458 0-.854.167-1.=
+188.5A1.588 1.588 0 0 0 4.166 10c0 .458.16.854.479 1.188.333.319.729.479 1.=
+188.479Zm0 3.333c-1.389 0-2.569-.486-3.542-1.458C1.319 12.569.833 11.389.83=
+3 10c0-1.389.486-2.569 1.458-3.542C3.264 5.486 4.444 5 5.833 5c.944 0 1.813=
+.243 2.604.729a4.752 4.752 0 0 1 1.833 1.979h7.23c.458 0 .847.167 1.167.5.3=
+33.319.5.708.5 1.167v3.958c0 .458-.167.854-.5 1.188A1.588 1.588 0 0 1 17.5 =
+15h-3.75a1.658 1.658 0 0 1-1.188-.479 1.658 1.658 0 0 1-.479-1.188v-1.042H1=
+0.27a4.59 4.59 0 0 1-1.813 2A5.1 5.1 0 0 1 5.833 15Zm3.292-4.375h4.625v2.70=
+8H15v-1.042a.592.592 0 0 1 .167-.438.623.623 0 0 1 .458-.188c.181 0 .327.06=
+3.438.188a.558.558 0 0 1 .188.438v1.042H17.5V9.375H9.125a3.312 3.312 0 0 0-=
+1.167-1.938 3.203 3.203 0 0 0-2.125-.77 3.21 3.21 0 0 0-2.354.979C2.827 8.2=
+98 2.5 9.083 2.5 10s.327 1.702.979 2.354a3.21 3.21 0 0 0 2.354.979c.806 0 1=
+.514-.25 2.125-.75.611-.514 1-1.167 1.167-1.958Z"></path>
+      </g>
+     =20
+  </defs></svg>
+</cr-iconset><cr-iconset name=3D"cr" size=3D"24"><template shadowmode=3D"op=
+en"><!---->
+<svg id=3D"baseSvg" xmlns=3D"http://www.w3.org/2000/svg" preserveAspectRati=
+o=3D"xMidYMid meet" focusable=3D"false" style=3D"pointer-events: none; disp=
+lay: block; width: 100%; height: 100%;" viewBox=3D"0 0 24 24">
+ </svg>
+<slot></slot>
+</template>
+  <svg>
+    <defs>
+      <!--
+      These icons are copied from Polymer's iron-icons and kept in sorted o=
+rder.
+      -->
+      <g id=3D"add">
+        <path d=3D"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6v2z"></path>
+      </g>
+      <g id=3D"arrow-back">
+        <path d=3D"m7.824 13 5.602 5.602L12 20l-8-8 8-8 1.426 1.398L7.824 1=
+1H20v2Zm0 0">
+        </path>
+      </g>
+      <g id=3D"arrow-drop-up">
+        <path d=3D"M7 14l5-5 5 5z"></path>
+      </g>
+      <g id=3D"arrow-drop-down">
+        <path d=3D"M7 10l5 5 5-5z"></path>
+      </g>
+      <g id=3D"arrow-forward">
+        <path d=3D"M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8=
+z">
+        </path>
+      </g>
+      <g id=3D"arrow-right">
+        <path d=3D"M10 7l5 5-5 5z"></path>
+      </g>
+      <g id=3D"cancel">
+        <path d=3D"M12 2C6.47 2 2 6.47 2 12s4.47 10 10 10 10-4.47 10-10S17.=
+53 2 12 2zm5 13.59L15.59 17 12 13.41 8.41 17 7 15.59 10.59 12 7 8.41 8.41 7=
+ 12 10.59 15.59 7 17 8.41 13.41 12 17 15.59z">
+        </path>
+      </g>
+      <g id=3D"check">
+        <path d=3D"M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></pat=
+h>
+      </g>
+      <g id=3D"check-circle" viewBox=3D"0 -960 960 960">
+        <path d=3D"m424-296 282-282-56-56-226 226-114-114-56 56 170 170Zm56=
+ 216q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54=
+-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5=
+ 156T763-197q-54 54-127 85.5T480-80Zm0-80q134 0 227-93t93-227q0-134-93-227t=
+-227-93q-134 0-227 93t-93 227q0 134 93 227t227 93Zm0-320Z"></path>
+      </g>
+      <g id=3D"chevron-left">
+        <path d=3D"M15.41 7.41L14 6l-6 6 6 6 1.41-1.41L10.83 12z"></path>
+      </g>
+      <g id=3D"chevron-right">
+        <path d=3D"M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z"></path>
+      </g>
+      <g id=3D"clear">
+        <path d=3D"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59=
+ 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+        </path>
+      </g>
+      <g id=3D"chrome-product" viewBox=3D"0 -960 960 960">
+        <path d=3D"M336-479q0 60 42 102t102 42q60 0 102-42t42-102q0-60-42-1=
+02t-102-42q-60 0-102 42t-42 102Zm144 216q11 0 22.5-.5T525-267L427-99q-144-1=
+6-237.5-125T96-479q0-43 9.5-84.5T134-645l160 274q28 51 78 79.5T480-263Zm0-4=
+32q-71 0-126.5 42T276-545l-98-170q53-71 132.5-109.5T480-863q95 0 179 45t138=
+ 123H480Zm356 72q15 35 21.5 71t6.5 73q0 155-100 260.5T509-96l157-275q14-25 =
+22-52t8-56q0-40-15-77t-41-67h196Z">
+        </path>
+      </g>
+      <g id=3D"close">
+        <path d=3D"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59=
+ 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+        </path>
+      </g>
+      <g id=3D"computer">
+        <path d=3D"M20 18c1.1 0 1.99-.9 1.99-2L22 6c0-1.1-.9-2-2-2H4c-1.1 0=
+-2 .9-2 2v10c0 1.1.9 2 2 2H0v2h24v-2h-4zM4 6h16v10H4V6z">
+        </path>
+      </g>
+      <g id=3D"create">
+        <path d=3D"M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.=
+04c.39-.39.39-1.02 0-1.41l-2.34-2.34c-.39-.39-1.02-.39-1.41 0l-1.83 1.83 3.=
+75 3.75 1.83-1.83z">
+        </path>
+      </g>
+      <g id=3D"delete" viewBox=3D"0 -960 960 960">
+        <path d=3D"M309.37-135.87q-34.48 0-58.74-24.26-24.26-24.26-24.26-58=
+.74v-474.5h-53.5v-83H378.5v-53.5h202.52v53.5h206.11v83h-53.5v474.07q0 35.21=
+-24.26 59.32t-58.74 24.11H309.37Zm341.26-557.5H309.37v474.5h341.26v-474.5ZM=
+379.7-288.24h77.5v-336h-77.5v336Zm123.1 0h77.5v-336h-77.5v336ZM309.37-693.3=
+7v474.5-474.5Z">
+        </path>
+      </g>
+      <g id=3D"domain">
+        <path d=3D"M12 7V3H2v18h20V7H12zM6 19H4v-2h2v2zm0-4H4v-2h2v2zm0-4H4=
+V9h2v2zm0-4H4V5h2v2zm4 12H8v-2h2v2zm0-4H8v-2h2v2zm0-4H8V9h2v2zm0-4H8V5h2v2z=
+m10 12h-8v-2h2v-2h-2v-2h2v-2h-2V9h8v10zm-2-8h-2v2h2v-2zm0 4h-2v2h2v-2z">
+        </path>
+      </g>
+      <!-- source: https://fonts.google.com/icons?selected=3DMaterial+Symbo=
+ls+Outlined:family_link:FILL@0;wght@0;GRAD@0;opsz@24&icon.size=3D24&icon.co=
+lor=3D%23e8eaed -->
+      <g id=3D"kite" viewBox=3D"0 -960 960 960">
+        <path d=3D"M390-40q-51 0-90.5-30.5T246-149q-6-23-25-37t-43-14q-16 0=
+-30 6.5T124-175l-61-51q21-26 51.5-40t63.5-14q51 0 91 30t54 79q6 23 25 37t42=
+ 14q19 0 34-10t26-25l1-2-276-381q-8-11-11.5-23t-3.5-24q0-16 6-30.5t18-26.5l=
+260-255q11-11 26-17t30-6q15 0 30 6t26 17l260 255q12 12 18 26.5t6 30.5q0 12-=
+3.5 24T825-538L500-88q-18 25-48 36.5T390-40Zm110-185 260-360-260-255-259 25=
+6 259 359Zm1-308Z"></path>
+       =20
+      </g>
+      <g id=3D"error">
+        <path d=3D"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.=
+52 2 12 2zm1 15h-2v-2h2v2zm0-4h-2V7h2v6z">
+        </path>
+      </g>
+      <g id=3D"error-outline">
+        <path d=3D"M11 15h2v2h-2zm0-8h2v6h-2zm.99-5C6.47 2 2 6.48 2 12s4.47=
+ 10 9.99 10C17.52 22 22 17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8=
+-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z">
+        </path>
+      </g>
+      <g id=3D"expand-less">
+        <path d=3D"M12 8l-6 6 1.41 1.41L12 10.83l4.59 4.58L18 14z"></path>
+      </g>
+      <g id=3D"expand-more">
+        <path d=3D"M16.59 8.59L12 13.17 7.41 8.59 6 10l6 6 6-6z"></path>
+      </g>
+      <g id=3D"extension">
+        <path d=3D"M20.5 11H19V7c0-1.1-.9-2-2-2h-4V3.5C13 2.12 11.88 1 10.5=
+ 1S8 2.12 8 3.5V5H4c-1.1 0-1.99.9-1.99 2v3.8H3.5c1.49 0 2.7 1.21 2.7 2.7s-1=
+.21 2.7-2.7 2.7H2V20c0 1.1.9 2 2 2h3.8v-1.5c0-1.49 1.21-2.7 2.7-2.7 1.49 0 =
+2.7 1.21 2.7 2.7V22H17c1.1 0 2-.9 2-2v-4h1.5c1.38 0 2.5-1.12 2.5-2.5S21.88 =
+11 20.5 11z">
+        </path>
+      </g>
+      <g id=3D"file-download" viewBox=3D"0 -960 960 960">
+        <path d=3D"M480-336 288-528l51-51 105 105v-342h72v342l105-105 51 51=
+-192 192ZM263.72-192Q234-192 213-213.15T192-264v-72h72v72h432v-72h72v72q0 2=
+9.7-21.16 50.85Q725.68-192 695.96-192H263.72Z"></path>
+      </g>
+      <g id=3D"fullscreen">
+        <path d=3D"M7 14H5v5h5v-2H7v-3zm-2-4h2V7h3V5H5v5zm12 7h-3v2h5v-5h-2=
+v3zM14 5v2h3v3h2V5h-5z">
+        </path>
+      </g>
+      <g id=3D"group">
+        <path d=3D"M16 11c1.66 0 2.99-1.34 2.99-3S17.66 5 16 5c-1.66 0-3 1.=
+34-3 3s1.34 3 3 3zm-8 0c1.66 0 2.99-1.34 2.99-3S9.66 5 8 5C6.34 5 5 6.34 5 =
+8s1.34 3 3 3zm0 2c-2.33 0-7 1.17-7 3.5V19h14v-2.5c0-2.33-4.67-3.5-7-3.5zm8 =
+0c-.29 0-.62.02-.97.05 1.16.84 1.97 1.97 1.97 3.45V19h6v-2.5c0-2.33-4.67-3.=
+5-7-3.5z">
+        </path>
+      </g>
+      <g id=3D"help-outline">
+        <path d=3D"M11 18h2v-2h-2v2zm1-16C6.48 2 2 6.48 2 12s4.48 10 10 10 =
+10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3=
+.59 8-8 8zm0-14c-2.21 0-4 1.79-4 4h2c0-1.1.9-2 2-2s2 .9 2 2c0 2-3 1.75-3 5h=
+2c0-2.25 3-2.5 3-5 0-2.21-1.79-4-4-4z">
+        </path>
+      </g>
+      <g id=3D"history">
+        <path d=3D"M12.945312 22.75 C 10.320312 22.75 8.074219 21.839844 6.=
+207031 20.019531 C 4.335938 18.199219 3.359375 15.972656 3.269531 13.34375 =
+L 5.089844 13.34375 C 5.175781 15.472656 5.972656 17.273438 7.480469 18.742=
+188 C 8.988281 20.210938 10.808594 20.945312 12.945312 20.945312 C 15.17968=
+8 20.945312 17.070312 20.164062 18.621094 18.601562 C 20.167969 17.039062 2=
+0.945312 15.144531 20.945312 12.910156 C 20.945312 10.714844 20.164062 8.85=
+5469 18.601562 7.335938 C 17.039062 5.816406 15.15625 5.054688 12.945312 5.=
+054688 C 11.710938 5.054688 10.554688 5.339844 9.480469 5.902344 C 8.402344=
+ 6.46875 7.476562 7.226562 6.699219 8.179688 L 9.585938 8.179688 L 9.585938=
+ 9.984375 L 3.648438 9.984375 L 3.648438 4.0625 L 5.453125 4.0625 L 5.45312=
+5 6.824219 C 6.386719 5.707031 7.503906 4.828125 8.804688 4.199219 C 10.109=
+375 3.566406 11.488281 3.25 12.945312 3.25 C 14.300781 3.25 15.570312 3.503=
+906 16.761719 4.011719 C 17.949219 4.519531 18.988281 5.214844 19.875 6.089=
+844 C 20.761719 6.964844 21.464844 7.992188 21.976562 9.167969 C 22.492188 =
+10.34375 22.75 11.609375 22.75 12.964844 C 22.75 14.316406 22.492188 15.589=
+844 21.976562 16.777344 C 21.464844 17.964844 20.761719 19.003906 19.875 19=
+.882812 C 18.988281 20.765625 17.949219 21.464844 16.761719 21.976562 C 15.=
+570312 22.492188 14.300781 22.75 12.945312 22.75 Z M 16.269531 17.460938 L =
+12.117188 13.34375 L 12.117188 7.527344 L 13.921875 7.527344 L 13.921875 12=
+.601562 L 17.550781 16.179688 Z M 16.269531 17.460938">
+        </path>
+      </g>
+      <g id=3D"info">
+        <path d=3D"M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.=
+52 2 12 2zm1 15h-2v-6h2v6zm0-8h-2V7h2v2z">
+        </path>
+      </g>
+      <g id=3D"info-outline">
+        <path d=3D"M11 17h2v-6h-2v6zm1-15C6.48 2 2 6.48 2 12s4.48 10 10 10 =
+10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3=
+.59 8-8 8zM11 9h2V7h-2v2z">
+        </path>
+      </g>
+      <g id=3D"insert-drive-file">
+        <path d=3D"M6 2c-1.1 0-1.99.9-1.99 2L4 20c0 1.1.89 2 1.99 2H18c1.1 =
+0 2-.9 2-2V8l-6-6H6zm7 7V3.5L18.5 9H13z">
+        </path>
+      </g>
+      <g id=3D"location-on">
+        <path d=3D"M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3=
+.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.=
+5 2.5-1.12 2.5-2.5 2.5z">
+        </path>
+      </g>
+      <g id=3D"mic">
+        <path d=3D"M12 14c1.66 0 2.99-1.34 2.99-3L15 5c0-1.66-1.34-3-3-3S9 =
+3.34 9 5v6c0 1.66 1.34 3 3 3zm5.3-3c0 3-2.54 5.1-5.3 5.1S6.7 14 6.7 11H5c0 =
+3.41 2.72 6.23 6 6.72V21h2v-3.28c3.28-.48 6-3.3 6-6.72h-1.7z">
+        </path>
+      </g>
+      <g id=3D"more-vert">
+        <path d=3D"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1=
+.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9=
+ 2-2-.9-2-2-2z">
+        </path>
+      </g>
+      <g id=3D"open-in-new" viewBox=3D"0 -960 960 960">
+        <path d=3D"M216-144q-29.7 0-50.85-21.15Q144-186.3 144-216v-528q0-29=
+.7 21.15-50.85Q186.3-816 216-816h264v72H216v528h528v-264h72v264q0 29.7-21.1=
+5 50.85Q773.7-144 744-144H216Zm171-192-51-51 357-357H576v-72h240v240h-72v-1=
+17L387-336Z">
+        </path>
+      </g>
+      <g id=3D"person">
+        <path d=3D"M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4=
+ 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z">
+        </path>
+      </g>
+      <g id=3D"phonelink">
+        <path d=3D"M4 6h18V4H4c-1.1 0-2 .9-2 2v11H0v3h14v-3H4V6zm19 2h-6c-.=
+55 0-1 .45-1 1v10c0 .55.45 1 1 1h6c.55 0 1-.45 1-1V9c0-.55-.45-1-1-1zm-1 9h=
+-4v-7h4v7z">
+        </path>
+      </g>
+      <g id=3D"print">
+        <path d=3D"M19 8H5c-1.66 0-3 1.34-3 3v6h4v4h12v-4h4v-6c0-1.66-1.34-=
+3-3-3zm-3 11H8v-5h8v5zm3-7c-.55 0-1-.45-1-1s.45-1 1-1 1 .45 1 1-.45 1-1 1zm=
+-1-9H6v4h12V3z">
+        </path>
+      </g>
+      <g id=3D"schedule">
+        <path d=3D"M11.99 2C6.47 2 2 6.48 2 12s4.47 10 9.99 10C17.52 22 22 =
+17.52 22 12S17.52 2 11.99 2zM12 20c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8=
+-3.58 8-8 8zm.5-13H11v6l5.25 3.15.75-1.23-4.5-2.67z">
+        </path>
+      </g>
+      <g id=3D"search">
+        <path d=3D"M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.=
+91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.=
+28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 =
+7.01 14 9.5 11.99 14 9.5 14z">
+        </path>
+      </g>
+      <g id=3D"security">
+        <path d=3D"M12 1L3 5v6c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12=
+V5l-9-4zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V6.3l7-3.11v8.8z">
+        </path>
+      </g>
+      <!-- The <g> IDs are exposed as global variables in Vulcanized mode, =
+which
+        conflicts with the "settings" namespace of MD Settings. Using an "_=
+icon"
+        suffix prevents the naming conflict. -->
+      <g id=3D"settings_icon">
+        <path d=3D"M19.43 12.98c.04-.32.07-.64.07-.98s-.03-.66-.07-.98l2.11=
+-1.65c.19-.15.24-.42.12-.64l-2-3.46c-.12-.22-.39-.3-.61-.22l-2.49 1c-.52-.4=
+-1.08-.73-1.69-.98l-.38-2.65C14.46 2.18 14.25 2 14 2h-4c-.25 0-.46.18-.49.4=
+2l-.38 2.65c-.61.25-1.17.59-1.69.98l-2.49-1c-.23-.09-.49 0-.61.22l-2 3.46c-=
+.13.22-.07.49.12.64l2.11 1.65c-.04.32-.07.65-.07.98s.03.66.07.98l-2.11 1.65=
+c-.19.15-.24.42-.12.64l2 3.46c.12.22.39.3.61.22l2.49-1c.52.4 1.08.73 1.69.9=
+8l.38 2.65c.03.24.24.42.49.42h4c.25 0 .46-.18.49-.42l.38-2.65c.61-.25 1.17-=
+.59 1.69-.98l2.49 1c.23.09.49 0 .61-.22l2-3.46c.12-.22.07-.49-.12-.64l-2.11=
+-1.65zM12 15.5c-1.93 0-3.5-1.57-3.5-3.5s1.57-3.5 3.5-3.5 3.5 1.57 3.5 3.5-1=
+.57 3.5-3.5 3.5z">
+        </path>
+      </g>
+      <g id=3D"star">
+        <path d=3D"M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.1=
+9 8.63 2 9.24l5.46 4.73L5.82 21z">
+        </path>
+      </g>
+      <g id=3D"sync" viewBox=3D"0 -960 960 960">
+        <path d=3D"M216-192v-72h74q-45-40-71.5-95.5T192-480q0-101 61-177.5T=
+408-758v75q-63 23-103.5 77.5T264-480q0 48 19.5 89t52.5 70v-63h72v192H216Zm3=
+36-10v-75q63-23 103.5-77.5T696-480q0-48-19.5-89T624-639v63h-72v-192h192v72h=
+-74q45 40 71.5 95.5T768-480q0 101-61 177.5T552-202Z">
+        </path>
+      </g>
+      <g id=3D"thumbs-down">
+        <path d=3D"M6 3h11v13l-7 7-1.25-1.25a1.454 1.454 0 0 1-.3-.475c-.06=
+7-.2-.1-.392-.1-.575v-.35L9.45 16H3c-.533 0-1-.2-1.4-.6-.4-.4-.6-.867-.6-1.=
+4v-2c0-.117.017-.242.05-.375s.067-.258.1-.375l3-7.05c.15-.333.4-.617.75-.85=
+C5.25 3.117 5.617 3 6 3Zm9 2H6l-3 7v2h9l-1.35 5.5L15 15.15V5Zm0 10.15V5v10.=
+15Zm2 .85v-2h3V5h-3V3h5v13h-5Z">
+        </path>
+      </g>
+      <g id=3D"thumbs-down-filled">
+        <path d=3D"M6 3h10v13l-7 7-1.25-1.25a1.336 1.336 0 0 1-.29-.477 1.6=
+6 1.66 0 0 1-.108-.574v-.347L8.449 16H3c-.535 0-1-.2-1.398-.602C1.199 15 1 =
+14.535 1 14v-2c0-.117.012-.242.04-.375.022-.133.062-.258.108-.375l3-7.05c.1=
+53-.333.403-.618.75-.848A1.957 1.957 0 0 1 6 3Zm12 13V3h4v13Zm0 0">
+        </path>
+      </g>
+      <g id=3D"thumbs-up">
+        <path d=3D"M18 21H7V8l7-7 1.25 1.25c.117.117.208.275.275.475.083.2.=
+125.392.125.575v.35L14.55 8H21c.533 0 1 .2 1.4.6.4.4.6.867.6 1.4v2c0 .117-.=
+017.242-.05.375s-.067.258-.1.375l-3 7.05c-.15.333-.4.617-.75.85-.35.233-.71=
+7.35-1.1.35Zm-9-2h9l3-7v-2h-9l1.35-5.5L9 8.85V19ZM9 8.85V19 8.85ZM7 8v2H4v9=
+h3v2H2V8h5Z">
+        </path>
+      </g>
+      <g id=3D"thumbs-up-filled">
+        <path d=3D"M18 21H8V8l7-7 1.25 1.25c.117.117.21.273.29.477.073.199.=
+108.39.108.574v.347L15.551 8H21c.535 0 1 .2 1.398.602C22.801 9 23 9.465 23 =
+10v2c0 .117-.012.242-.04.375a1.897 1.897 0 0 1-.108.375l-3 7.05a2.037 2.037=
+ 0 0 1-.75.848A1.957 1.957 0 0 1 18 21ZM6 8v13H2V8Zm0 0">
+      </path></g>
+      <g id=3D"videocam" viewBox=3D"0 -960 960 960">
+        <path d=3D"M216-192q-29 0-50.5-21.5T144-264v-432q0-29.7 21.5-50.85Q=
+187-768 216-768h432q29.7 0 50.85 21.15Q720-725.7 720-696v168l144-144v384L72=
+0-432v168q0 29-21.15 50.5T648-192H216Zm0-72h432v-432H216v432Zm0 0v-432 432Z=
+">
+        </path>
+      </g>
+      <g id=3D"warning">
+        <path d=3D"M1 21h22L12 2 1 21zm12-3h-2v-2h2v2zm0-4h-2v-4h2v4z"></pa=
+th>
+      </g>
+    </defs>
+  </svg>
+</cr-iconset></head>
+<body>
+  <bookmarks-app><template shadowmode=3D"open"><!--_html_template_start_-->=
+<bookmarks-toolbar role=3D"banner" style=3D"--sidebar-width: 256px;"><templ=
+ate shadowmode=3D"open"><!--_html_template_start_--><cr-toolbar page-name=
+=3D"Lesezeichen" clear-label=3D"Suche l=C3=B6schen" search-prompt=3D"In Les=
+ezeichen suchen" autofocus=3D"" always-show-logo=3D""><template shadowmode=
+=3D"open"><!---->
+<div id=3D"leftContent">
+  <div id=3D"leftSpacer">
+    <!--?lit$59753706$-->
+    <slot name=3D"product-logo">
+      <picture>
+        <source media=3D"(prefers-color-scheme: dark)" srcset=3D"//resource=
+s/images/chrome_logo_dark.svg">
+        <img id=3D"product-logo" role=3D"presentation">
+      </picture>
+    </slot>
+    <h1><!--?lit$59753706$-->Lesezeichen</h1>
+  </div>
+</div>
+
+<div id=3D"centeredContent">
+  <cr-toolbar-search-field id=3D"search" label=3D"In Lesezeichen suchen" cl=
+ear-label=3D"Suche l=C3=B6schen" autofocus=3D"" icon-override=3D"" input-ar=
+ia-description=3D""><template shadowmode=3D"open"><!---->
+<div id=3D"background"></div>
+<div id=3D"stateBackground"></div>
+<div id=3D"content">
+  <!--?lit$59753706$-->
+    <cr-icon-button id=3D"icon" suppress-rtl-flip=3D"" iron-icon=3D"cr:sear=
+ch" title=3D"In Lesezeichen suchen" tabindex=3D"-1" aria-hidden=3D"true" ro=
+le=3D"button" aria-disabled=3D"false"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+<cr-icon><template shadowmode=3D"open"><svg id=3D"baseSvg" xmlns=3D"http://=
+www.w3.org/2000/svg" preserveAspectRatio=3D"xMidYMid meet" focusable=3D"fal=
+se" style=3D"pointer-events: none; display: block; width: 100%; height: 100=
+%;" viewBox=3D"0 0 24 24" class=3D"cr-iconset-svg-icon_" role=3D"none">
+ <g>
+        <path d=3D"M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.=
+91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.=
+28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 =
+7.01 14 9.5 11.99 14 9.5 14z">
+        </path>
+      </g></svg><!----></template></cr-icon></div></template>
+  </cr-icon-button>
+  <div id=3D"searchTerm">
+    <label id=3D"prompt" for=3D"searchInput" aria-hidden=3D"true">
+      <!--?lit$59753706$-->In Lesezeichen suchen
+    </label>
+    <input id=3D"searchInput" aria-labelledby=3D"prompt" autocapitalize=3D"=
+off" autocomplete=3D"off" type=3D"search" spellcheck=3D"false" aria-descrip=
+tion=3D"" autofocus=3D"">
+  </div>
+  <!--?lit$59753706$-->
+</div></template>
+  </cr-toolbar-search-field>
+</div>
+
+<div id=3D"rightContent">
+  <div id=3D"rightSpacer">
+    <slot></slot>
+  </div>
+</div></template><cr-icon-button iron-icon=3D"cr:more-vert" id=3D"menuButto=
+n" title=3D"Organisieren" aria-haspopup=3D"menu" role=3D"button" tabindex=
+=3D"0" aria-disabled=3D"false"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+<cr-icon><template shadowmode=3D"open"><svg id=3D"baseSvg" xmlns=3D"http://=
+www.w3.org/2000/svg" preserveAspectRatio=3D"xMidYMid meet" focusable=3D"fal=
+se" style=3D"pointer-events: none; display: block; width: 100%; height: 100=
+%;" viewBox=3D"0 0 24 24" class=3D"cr-iconset-svg-icon_" role=3D"none">
+ <g>
+        <path d=3D"M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1=
+.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9=
+ 2-2-.9-2-2-2z">
+        </path>
+      </g></svg><!----></template></cr-icon></div><cr-ripple id=3D"ink"><te=
+mplate shadowmode=3D"open"><!----></template></cr-ripple></template></cr-ic=
+on-button></cr-toolbar><cr-toolbar-selection-overlay cancel-label=3D"Abbrec=
+hen" role=3D"toolbar" aria-label=3D"0 ausgew=C3=A4hlt"><template shadowmode=
+=3D"open"><!---->
+<div id=3D"overlay-content">
+  <cr-icon-button part=3D"clearIcon" iron-icon=3D"cr:clear" title=3D"Abbrec=
+hen" role=3D"button" tabindex=3D"0" aria-disabled=3D"false"><template shado=
+wmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+<cr-icon><template shadowmode=3D"open"><svg id=3D"baseSvg" xmlns=3D"http://=
+www.w3.org/2000/svg" preserveAspectRatio=3D"xMidYMid meet" focusable=3D"fal=
+se" style=3D"pointer-events: none; display: block; width: 100%; height: 100=
+%;" viewBox=3D"0 0 24 24" class=3D"cr-iconset-svg-icon_" role=3D"none">
+ <g>
+        <path d=3D"M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59=
+ 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z">
+        </path>
+      </g></svg><!----></template></cr-icon></div></template></cr-icon-butt=
+on>
+  <div id=3D"number-selected"><!--?lit$59753706$-->0 ausgew=C3=A4hlt</div>
+  <div id=3D"slot"><slot></slot></div>
+</div></template><cr-button role=3D"button" tabindex=3D"-1" aria-disabled=
+=3D"true" disabled=3D""><template shadowmode=3D"open"><!---->
+<div id=3D"background"></div>
+<slot id=3D"prefixIcon" name=3D"prefix-icon">
+</slot>
+<span id=3D"content"><slot></slot></span>
+<slot id=3D"suffixIcon" name=3D"suffix-icon">
+</slot>
+<div id=3D"hoverBackground" part=3D"hoverBackground"></div></template>
+    L=C3=B6schen
+  </cr-button></cr-toolbar-selection-overlay><!--_html_template_end_--></te=
+mplate></bookmarks-toolbar><div id=3D"drop-shadow" class=3D"cr-container-sh=
+adow"></div><div id=3D"main-container"><div id=3D"sidebar" role=3D"tree" ar=
+ia-label=3D"Lesezeichenordnerstruktur"><bookmarks-folder-node item-id=3D"0"=
+ depth=3D"-1" style=3D"--node-depth: -1;"><template shadowmode=3D"open"><!-=
+-_html_template_start_--><div id=3D"descendants"><bookmarks-folder-node dra=
+ggable=3D"true" style=3D"--node-depth: 0;"><template shadowmode=3D"open"><!=
+--_html_template_start_--><div id=3D"container" role=3D"treeitem" aria-owns=
+=3D"descendants" class=3D"cr-vertical-tab cr-nav-menu-item " tabindex=3D"-1=
+" aria-expanded=3D"true"><div id=3D"inner-container"><cr-icon-button id=3D"=
+arrow" iron-icon=3D"cr:arrow-drop-down" tabindex=3D"-1" noink=3D"" aria-hid=
+den=3D"true" is-open=3D"" role=3D"button" aria-disabled=3D"false"><template=
+ shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+<cr-icon><template shadowmode=3D"open"><svg id=3D"baseSvg" xmlns=3D"http://=
+www.w3.org/2000/svg" preserveAspectRatio=3D"xMidYMid meet" focusable=3D"fal=
+se" style=3D"pointer-events: none; display: block; width: 100%; height: 100=
+%;" viewBox=3D"0 0 24 24" class=3D"cr-iconset-svg-icon_" role=3D"none">
+ <g>
+        <path d=3D"M7 10l5 5 5-5z"></path>
+      </g></svg><!----></template></cr-icon></div></template></cr-icon-butt=
+on><dom-if style=3D"display: none;"><template is=3D"dom-if"></template></do=
+m-if><div class=3D"folder-icon icon-folder-open"></div><div class=3D"menu-l=
+abel" title=3D"Lesezeichenleiste">
+      Lesezeichenleiste
+    </div><cr-ripple><template shadowmode=3D"open"><!----></template></cr-r=
+ipple></div></div><div id=3D"descendants" role=3D"group"><bookmarks-folder-=
+node draggable=3D"true" style=3D"--node-depth: 1;"><template shadowmode=3D"=
+open"><!--_html_template_start_--><div id=3D"container" role=3D"treeitem" a=
+ria-owns=3D"descendants" class=3D"cr-vertical-tab cr-nav-menu-item" tabinde=
+x=3D"-1"><div id=3D"inner-container"><dom-if style=3D"display: none;"><temp=
+late is=3D"dom-if"></template></dom-if><div class=3D"folder-icon icon-folde=
+r-open" no-children=3D""></div><div class=3D"menu-label" title=3D"Schule">
+      Schule
+    </div><cr-ripple><template shadowmode=3D"open"><!----></template></cr-r=
+ipple></div></div><div id=3D"descendants" role=3D"group"><dom-repeat as=3D"=
+child" filter=3D"isFolder_" style=3D"display: none;"><template is=3D"dom-re=
+peat"></template></dom-repeat><dom-if style=3D"display: none;"><template is=
+=3D"dom-if"></template></dom-if></div><!--_html_template_end_--></template>=
+</bookmarks-folder-node><bookmarks-folder-node draggable=3D"true" style=3D"=
+--node-depth: 1;"><template shadowmode=3D"open"><!--_html_template_start_--=
+><div id=3D"container" role=3D"treeitem" aria-owns=3D"descendants" class=3D=
+"cr-vertical-tab cr-nav-menu-item" tabindex=3D"-1" aria-expanded=3D"false">=
+<div id=3D"inner-container"><cr-icon-button id=3D"arrow" iron-icon=3D"cr:ar=
+row-drop-down" tabindex=3D"-1" noink=3D"" aria-hidden=3D"true" role=3D"butt=
+on" aria-disabled=3D"false"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+<cr-icon><template shadowmode=3D"open"><svg id=3D"baseSvg" xmlns=3D"http://=
+www.w3.org/2000/svg" preserveAspectRatio=3D"xMidYMid meet" focusable=3D"fal=
+se" style=3D"pointer-events: none; display: block; width: 100%; height: 100=
+%;" viewBox=3D"0 0 24 24" class=3D"cr-iconset-svg-icon_" role=3D"none">
+ <g>
+        <path d=3D"M7 10l5 5 5-5z"></path>
+      </g></svg><!----></template></cr-icon></div></template></cr-icon-butt=
+on><dom-if style=3D"display: none;"><template is=3D"dom-if"></template></do=
+m-if><div class=3D"folder-icon icon-folder-open"></div><div class=3D"menu-l=
+abel" title=3D"Random">
+      Random
+    </div><cr-ripple><template shadowmode=3D"open"><!----></template></cr-r=
+ipple></div></div><div id=3D"descendants" role=3D"group"><dom-if style=3D"d=
+isplay: none;"><template is=3D"dom-if"></template></dom-if></div><!--_html_=
+template_end_--></template></bookmarks-folder-node><bookmarks-folder-node d=
+raggable=3D"true" style=3D"--node-depth: 1;" is-selected-folder_=3D""><temp=
+late shadowmode=3D"open"><!--_html_template_start_--><div id=3D"container" =
+role=3D"treeitem" aria-owns=3D"descendants" class=3D"cr-vertical-tab cr-nav=
+-menu-item selected" tabindex=3D"0" aria-expanded=3D"true" selected=3D""><d=
+iv id=3D"inner-container"><cr-icon-button id=3D"arrow" iron-icon=3D"cr:arro=
+w-drop-down" tabindex=3D"-1" noink=3D"" aria-hidden=3D"true" role=3D"button=
+" aria-disabled=3D"false" is-open=3D""><template shadowmode=3D"open"><!----=
+>
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+<cr-icon><template shadowmode=3D"open"><svg id=3D"baseSvg" xmlns=3D"http://=
+www.w3.org/2000/svg" preserveAspectRatio=3D"xMidYMid meet" focusable=3D"fal=
+se" style=3D"pointer-events: none; display: block; width: 100%; height: 100=
+%;" viewBox=3D"0 0 24 24" class=3D"cr-iconset-svg-icon_" role=3D"none">
+ <g>
+        <path d=3D"M7 10l5 5 5-5z"></path>
+      </g></svg><!----></template></cr-icon></div><cr-ripple id=3D"ink"><te=
+mplate shadowmode=3D"open"><!----></template></cr-ripple></template></cr-ic=
+on-button><dom-if style=3D"display: none;"><template is=3D"dom-if"></templa=
+te></dom-if><div class=3D"folder-icon icon-folder-open" open=3D""></div><di=
+v class=3D"menu-label" title=3D"Abuse">
+      Abuse
+    </div><cr-ripple><template shadowmode=3D"open"><!----></template></cr-r=
+ipple></div></div><div id=3D"descendants" role=3D"group"><bookmarks-folder-=
+node draggable=3D"true" style=3D"--node-depth: 2;"><template shadowmode=3D"=
+open"><!--_html_template_start_--><div id=3D"container" role=3D"treeitem" a=
+ria-owns=3D"descendants" class=3D"cr-vertical-tab cr-nav-menu-item " tabind=
+ex=3D"-1"><div id=3D"inner-container"><dom-if style=3D"display: none;"><tem=
+plate is=3D"dom-if"></template></dom-if><div class=3D"folder-icon icon-fold=
+er-open" no-children=3D""></div><div class=3D"menu-label" title=3D"Scannen"=
+>
+      Scannen
+    </div><cr-ripple><template shadowmode=3D"open"><!----></template></cr-r=
+ipple></div></div><div id=3D"descendants" role=3D"group"><dom-if style=3D"d=
+isplay: none;"><template is=3D"dom-if"></template></dom-if></div><!--_html_=
+template_end_--></template></bookmarks-folder-node><dom-repeat as=3D"child"=
+ filter=3D"isFolder_" style=3D"display: none;"><template is=3D"dom-repeat">=
+</template></dom-repeat><dom-if style=3D"display: none;"><template is=3D"do=
+m-if"></template></dom-if></div><!--_html_template_end_--></template></book=
+marks-folder-node><bookmarks-folder-node draggable=3D"true" style=3D"--node=
+-depth: 1;"><template shadowmode=3D"open"><!--_html_template_start_--><div =
+id=3D"container" role=3D"treeitem" aria-owns=3D"descendants" class=3D"cr-ve=
+rtical-tab cr-nav-menu-item" tabindex=3D"-1"><div id=3D"inner-container"><d=
+om-if style=3D"display: none;"><template is=3D"dom-if"></template></dom-if>=
+<div class=3D"folder-icon icon-folder-open" no-children=3D""></div><div cla=
+ss=3D"menu-label" title=3D"Swisscom">
+      Swisscom
+    </div><cr-ripple><template shadowmode=3D"open"><!----></template></cr-r=
+ipple></div></div><div id=3D"descendants" role=3D"group"><dom-repeat as=3D"=
+child" filter=3D"isFolder_" style=3D"display: none;"><template is=3D"dom-re=
+peat"></template></dom-repeat><dom-if style=3D"display: none;"><template is=
+=3D"dom-if"></template></dom-if></div><!--_html_template_end_--></template>=
+</bookmarks-folder-node><dom-repeat as=3D"child" filter=3D"isFolder_" style=
+=3D"display: none;"><template is=3D"dom-repeat"></template></dom-repeat><do=
+m-if style=3D"display: none;"><template is=3D"dom-if"></template></dom-if><=
+/div><!--_html_template_end_--></template></bookmarks-folder-node><bookmark=
+s-folder-node draggable=3D"true" style=3D"--node-depth: 0;"><template shado=
+wmode=3D"open"><!--_html_template_start_--><div id=3D"container" role=3D"tr=
+eeitem" aria-owns=3D"descendants" class=3D"cr-vertical-tab cr-nav-menu-item=
+" tabindex=3D"-1"><div id=3D"inner-container"><dom-if style=3D"display: non=
+e;"><template is=3D"dom-if"></template></dom-if><div class=3D"folder-icon i=
+con-folder-open" no-children=3D""></div><div class=3D"menu-label" title=3D"=
+Weitere Lesezeichen">
+      Weitere Lesezeichen
+    </div><cr-ripple><template shadowmode=3D"open"><!----></template></cr-r=
+ipple></div></div><div id=3D"descendants" role=3D"group"><dom-repeat as=3D"=
+child" filter=3D"isFolder_" style=3D"display: none;"><template is=3D"dom-re=
+peat"></template></dom-repeat><dom-if style=3D"display: none;"><template is=
+=3D"dom-if"></template></dom-if></div><!--_html_template_end_--></template>=
+</bookmarks-folder-node><dom-repeat as=3D"child" filter=3D"isFolder_" style=
+=3D"display: none;"><template is=3D"dom-repeat"></template></dom-repeat><do=
+m-if style=3D"display: none;"><template is=3D"dom-if"></template></dom-if><=
+/div><!--_html_template_end_--></template></bookmarks-folder-node><managed-=
+footnote managed-by-icon_=3D""><template shadowmode=3D"open"><!----><!--?li=
+t$59753706$--><!--?--></template></managed-footnote></div><cr-splitter id=
+=3D"splitter"></cr-splitter><bookmarks-list><template shadowmode=3D"open"><=
+!--_html_template_start_--><iron-list id=3D"list" role=3D"grid" aria-label=
+=3D"Lesezeichenliste" aria-multiselectable=3D"true" style=3D"" aria-owns=3D=
+"bookmark_0 bookmark_1 bookmark_2 bookmark_3 bookmark_4 bookmark_5 bookmark=
+_6 bookmark_7 bookmark_8 bookmark_9 bookmark_10 bookmark_11 bookmark_12 boo=
+kmark_13 bookmark_14 bookmark_15 bookmark_16 bookmark_17 bookmark_18 bookma=
+rk_19"><template shadowmode=3D"open"><array-selector id=3D"selector"></arra=
+y-selector><div id=3D"items" style=3D"height: 800px;"><slot></slot></div></=
+template><template></template><bookmarks-item draggable=3D"true" role=3D"ro=
+w" id=3D"bookmark_0" aria-selected=3D"false" aria-rowindex=3D"1" tabindex=
+=3D"-1" aria-label=3D"AbuseHQ" style=3D"transform: translate3d(0px, 0px, 0p=
+x);"><template shadowmode=3D"open"><!--_html_template_start_--><div id=3D"i=
+con" class=3D"website-icon" style=3D"background-image: image-set(url(&quot;=
+chrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F=
+%2Flogin.abusix.com%2F%3Fclient_id%3Dproject_01ESPAKB0YR8VEE6YW6DN2A8M0%26r=
+edirect_uri%3Dhttps%253A%252F%252Fapp.abusix.com%252Fnext-api%252Fauth%252F=
+workos%252Fcallback%26response_type%3Dcode%26authorization_session_id%3D01J=
+KAGCS9V1EB203HHQ3VTDZJ4&amp;allowGoogleServerFallback=3D0&quot;) 1x, url(&q=
+uot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dhttps%3=
+A%2F%2Flogin.abusix.com%2F%3Fclient_id%3Dproject_01ESPAKB0YR8VEE6YW6DN2A8M0=
+%26redirect_uri%3Dhttps%253A%252F%252Fapp.abusix.com%252Fnext-api%252Fauth%=
+252Fworkos%252Fcallback%26response_type%3Dcode%26authorization_session_id%3=
+D01JKAGCS9V1EB203HHQ3VTDZJ4&amp;allowGoogleServerFallback=3D0&quot;) 2x);">=
+</div><div id=3D"website-text" role=3D"gridcell"><div id=3D"website-title" =
+class=3D"elided-text" title=3D"AbuseHQ">
+    AbuseHQ
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://logi=
+n.abusix.com/?client_id=3Dproject_01ESPAKB0YR8VEE6YW6DN2A8M0&amp;redirect_u=
+ri=3Dhttps%3A%2F%2Fapp.abusix.com%2Fnext-api%2Fauth%2Fworkos%2Fcallback&amp=
+;response_type=3Dcode&amp;authorization_session_id=3D01JKAGCS9V1EB203HHQ3VT=
+DZJ4">
+    https://login.abusix.com/?client_id=3Dproject_01ESPAKB0YR8VEE6YW6DN2A8M=
+0&amp;redirect_uri=3Dhttps%3A%2F%2Fapp.abusix.com%2Fnext-api%2Fauth%2Fworko=
+s%2Fcallback&amp;response_type=3Dcode&amp;authorization_session_id=3D01JKAG=
+CS9V1EB203HHQ3VTDZJ4
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr AbuseHQ"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_1" aria-selected=3D"false" aria-rowindex=3D"2" tabindex=3D"-1" aria-=
+label=3D"Proxy GUI" style=3D"transform: translate3d(0px, 40px, 0px);"><temp=
+late shadowmode=3D"open"><!--_html_template_start_--><div id=3D"icon" class=
+=3D"website-icon" style=3D"background-image: image-set(url(&quot;chrome://f=
+avicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%2Fproxy-g=
+ui.scapp-corp.swisscom.com%2F&amp;allowGoogleServerFallback=3D0&quot;) 1x, =
+url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dh=
+ttps%3A%2F%2Fproxy-gui.scapp-corp.swisscom.com%2F&amp;allowGoogleServerFall=
+back=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"><div=
+ id=3D"website-title" class=3D"elided-text" title=3D"Proxy GUI">
+    Proxy GUI
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://prox=
+y-gui.scapp-corp.swisscom.com/">
+    https://proxy-gui.scapp-corp.swisscom.com/
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Proxy GUI"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_2" aria-selected=3D"false" aria-rowindex=3D"3" tabindex=3D"-1" aria-=
+label=3D"Phisherman" style=3D"transform: translate3d(0px, 80px, 0px);"><tem=
+plate shadowmode=3D"open"><!--_html_template_start_--><div id=3D"icon" clas=
+s=3D"website-icon" style=3D"background-image: image-set(url(&quot;chrome://=
+favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%2Fphishe=
+rman.icp.corproot.net%2Funauthorized&amp;allowGoogleServerFallback=3D0&quot=
+;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;page=
+Url=3Dhttps%3A%2F%2Fphisherman.icp.corproot.net%2Funauthorized&amp;allowGoo=
+gleServerFallback=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"g=
+ridcell"><div id=3D"website-title" class=3D"elided-text" title=3D"Phisherma=
+n">
+    Phisherman
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://phis=
+herman.icp.corproot.net/unauthorized">
+    https://phisherman.icp.corproot.net/unauthorized
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Phisherman"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_3" aria-selected=3D"false" aria-rowindex=3D"4" tabindex=3D"-1" aria-=
+label=3D"VirusTotal - Home" style=3D"transform: translate3d(0px, 120px, 0px=
+);"><template shadowmode=3D"open"><!--_html_template_start_--><div id=3D"ic=
+on" class=3D"website-icon" style=3D"background-image: image-set(url(&quot;c=
+hrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%=
+2Fwww.virustotal.com%2Fgui%2Fhome%2Fupload&amp;allowGoogleServerFallback=3D=
+0&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&am=
+p;pageUrl=3Dhttps%3A%2F%2Fwww.virustotal.com%2Fgui%2Fhome%2Fupload&amp;allo=
+wGoogleServerFallback=3D0&quot;) 2x);"></div><div id=3D"website-text" role=
+=3D"gridcell"><div id=3D"website-title" class=3D"elided-text" title=3D"Viru=
+sTotal - Home">
+    VirusTotal - Home
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://www.=
+virustotal.com/gui/home/upload">
+    https://www.virustotal.com/gui/home/upload
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr VirusTotal - Home"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_4" aria-selected=3D"false" aria-rowindex=3D"5" tabindex=3D"-1" aria-=
+label=3D"Apache Guacamole" style=3D"transform: translate3d(0px, 160px, 0px)=
+;"><template shadowmode=3D"open"><!--_html_template_start_--><div id=3D"ico=
+n" class=3D"website-icon" style=3D"background-image: image-set(url(&quot;ch=
+rome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%2=
+Fsandbox.scapp-corp.swisscom.com%2Fguacamole%2F%23%2F%3Ftoken_type%3Dbearer=
+%26id_token%3DeyJhbGciOiJSUzI1NiIsImprdSI6Imh0dHBzOi8vbG9jYWxob3N0OjgwODAvd=
+WFhL3Rva2VuX2tleXMiLCJraWQiOiJsZWdhY3ktdG9rZW4ta2V5IiwidHlwIjoiSldUIn0.eyJz=
+dWIiOiJhZGE2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYTkiLCJhdWQiOlsiYUhweGl=
+ZdmMxTGNGZnMzaUVwcHVCOXNvY2s1QVA5REdkOWdXZTRBUHpTY1czenA2NzV1T2doUVdEMDE0RV=
+J0QSJdLCJpc3MiOiJodHRwczovL3Nzby1jb3Jwcm9vdC12Mi5zY2FwcC1zZXJ2aWNlcy5zd2lzc=
+2NvbS5jb20vb2F1dGgvdG9rZW4iLCJleHAiOjE3Mzg3NDE2NDksImlhdCI6MTczODc0MDkyOSwi=
+YW1yIjpbImV4dCJdLCJhenAiOiJhSHB4aVl2YzFMY0ZmczNpRXBwdUI5c29jazVBUDlER2Q5Z1d=
+lNEFQelNjVzN6cDY3NXVPZ2hRV0QwMTRFUnRBIiwicm9sZXMiOlsiREdfUEYwMC1JQU1fQmlydG=
+hyaWdodF9TQ1MtTUEiLCJGVV9QRjAwLU9NX1NjLUdyb3VwX2ludCIsIkREX1JQZXJtLVRlbGVQc=
+mVzZW5jZS1aSC03LXN0X0JHIiwiREdfQ29ycC1QR1AtQWNjZXNzX0FfMDAiLCJER19QRjAwLUlB=
+TV9DVVNfQmFzaWMiLCJER19Db3JwLUZTLUFjY2Vzc19SQVMtVlBOLUFjY2VzcyIsIkREX1N3aXN=
+zY29tLU1pdGFyYmVpdGVyREUiLCJERF9HSFItUE9ELU5FWCIsIkRHX1BGMDAtSUFNX0JpcnRocm=
+lnaHRfU0MtTUEiLCJER19QRjAwLVdQLUFjY2Vzc19EV0ZfQV8wMDgiLCJERF9CdWlsZGluZy1Lc=
+mktTWF0MTItMTQiLCJER19Db3JwLVNBUC1TQVBDSF9BX1NwZXNlblBHSCIsIkREX0NFTyIsIkRE=
+X05FWC1MZXJuZW5kZURFIiwiUkdfUEYwMC1BenVyZVN5bmNVc2VyIiwiREdfSVQtU0JCLVJlbGV=
+hc2UtVG9vbF9BXzAxIiwiRERfR0hSLVBPRCIsIkREX0dIUiIsIkZVX1BGMDAtT01fR0hSLVBPRF=
+9pbnQiLCJER19Db3JwLUV4dHJhbmV0U1NPX0RfRFIwMiIsIkRHX1BGMDAtUDJTX05ld3Nyb29tL=
+XVzZXIiLCJER19QRjAwLUNvcnBJRC1Db21odWJfQmFzaWMiLCJER19QRjAwLUlBTV9JREVBSFVC=
+X0Jhc2ljIiwiUlVfUEYwMC1BenVyZVN5bmNERCIsIkREX1N3aXNzY29tLU1pdGFyYmVpdGVyREV=
+JbnRlcm4iLCJGVV9QRjAwLU9NX0dIUi1QT0QtTkVYX2ludCIsIkREX0dIUi1QT0QtTkVYLTI3Ii=
+wiREdfUEYwMC1JQU1fSG94aHVudF9CYXNpYyIsIkRMX1BGMDAtTzM2NS1BY2Nlc3NfT25seUF6d=
+XIiLCJGVV9QRjAwLU9NX0dIUl9pbnQiLCJSR19QRjAwLU8zNjUtQWNjZXNzX09mZmljZTM2NSIs=
+IkREX1N3aXNzY29tLUFsbGludGVybiIsIkRHX1BGMDAtRUFNLUxlYW5JWF9WaWV3ZXIiLCJER19=
+Db3JwLVNBUC1BY2Nlc3NfQV8wMCIsIkRHX1BGMDAtQVBTX0dCU19UMDAxX0FsbGdlbWVpbl9WaW=
+V3ZXIiLCJER19QRjAwLUlBTV9TU1JfTUZBLU1JRC1TQ1MiLCJSR19QRjAwLUF6dXJlU3luY0RHI=
+iwiREdfQ29ycC1TQVAtQWNjZXNzX0FfMDMiLCJER19UZXN0LVRXUDIwMTEtQ29yZVNlcnZpY2Vf=
+U18wNiIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xMiIsIkRHX0NvcnAtQXV0b1Rvb2x=
+zNC1BY2Nlc3NfQV8xMyIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xNCIsIkRHX0Nvcn=
+AtVFdQMjAxMS1Db3JlU2VydmljZV9TXzA2IiwiREdfQ29ycC1TQVAtU0FQQ0hfQV9aZWl0ZXJmU=
+DBGIiwiRERfQnVpbGRpbmctS3JpLU1hdDEyIiwiRERfUlBFUk0tQmVyLUdlbjE0LUEzMzctMDBf=
+QkciLCJER19Db3JwLVNBUC1TQVBDSF9BX0Jhc2lzcm9sbGVfU0NTIiwiRERfUlBFUk0tWnVyLUh=
+hcjMtNy1zdC0wMF9CRyIsIkRHX2NvcnByb290X0RfRFI5OSIsIkRHX0NvcnAtVFdQMjAxMS1BY2=
+Nlc3NfQV8xOSIsIkZVX1BGMDAtT01fR0hSLVBPRC1ORVgtMjdfaW50IiwiRERfTkVYR3JvdXBMZ=
+XJuZW5kZS1UZWFtSVQiLCJEb21haW4gVXNlcnMiLCJER19JVC1QcmlNYS1BY2Nlc3NfSV9DVTAx=
+IiwiREdfUEYwMC1JQU1fQ09ORklHREJfQmFzaWMiLCJER19DT1JQLVNBUC1CSS1BUFMiLCJERF9=
+SUEVSTS1adXItSGFyMy03LWZpLTAwX0JHIiwiREdfR0hSLVJDT19JX0NVMDAiLCJER19QRjAwLU=
+lBTV9NSUFfQmFzaWMiXSwic2NvcGUiOlsib3BlbmlkIl0sIm5vbmNlIjoicHA4cGxzNXRzZGxjN=
+zd1MmFhZTV2YTVlMCIsImVtYWlsIjoiU2VsaW5hLkZyZXlAc3dpc3Njb20uY29tIiwiemlkIjoi=
+dWFhIiwib3JpZ2luIjoib3BlbmFtIiwianRpIjoiY2I2NmMzY2M0YmNhNGRiNzhkNDlmNzEyZjl=
+lOGU3MjciLCJhY3IiOnsidmFsdWVzIjpbInVybjpmZWRlcmF0aW9uOmF1dGhlbnRpY2F0aW9uOn=
+dpbmRvd3MiXX0sInByZXZpb3VzX2xvZ29uX3RpbWUiOjE3MzY5MjcyMDE3MDAsInVzZXJfYXR0c=
+mlidXRlcyI6eyJlbXBsb3llZV90eXBlIjpbImludGVybiJdLCJvZmZpY2UiOlsiS3JpLU1hdDEy=
+LzE0Il0sImRlcGFydG1lbnQiOlsiR0hSLVBPRC1ORVgtMjciXSwibW9iaWxlX251bWJlciI6WyI=
+rNDEtNzktNTY5IDYyIDU4Il0sImVtcGxveWVlX2lkIjpbIjcxNDU5ODkiXX0sImVtYWlsX3Zlcm=
+lmaWVkIjpmYWxzZSwiY2xpZW50X2lkIjoiYUhweGlZdmMxTGNGZnMzaUVwcHVCOXNvY2s1QVA5R=
+EdkOWdXZTRBUHpTY1czenA2NzV1T2doUVdEMDE0RVJ0QSIsImNpZCI6ImFIcHhpWXZjMUxjRmZz=
+M2lFcHB1Qjlzb2NrNUFQOURHZDlnV2U0QVB6U2NXM3pwNjc1dU9naFFXRDAxNEVSdEEiLCJncmF=
+udF90eXBlIjoiaW1wbGljaXQiLCJ1c2VyX25hbWUiOiJUQUFGUlNFMCIsInJldl9zaWciOiIyYm=
+I1NzFmOSIsInVzZXJfaWQiOiJhZGE2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYTkiL=
+CJhdXRoX3RpbWUiOjE3Mzg3NDA5Mjh9.eX7pjfRXuaktrHjETf0mnPhe67J2NJ30MTYykP8pOyl=
+2VbpYwuPRDGy1mzVs9p1YVwem0-lQXSOXkrm1LcdU9Q3o_KX3n_XyWk7PUOFVdzdNCjw3rXrY81=
+gdfhNU1D5gwv5h1bUbJLOvYGfIRvRAwt0wlDtcWy32VvcjT1-mh7XS8MHa1m0-Ojp7ytsmsNSKV=
+i9XC1OemdKDGaSf9TyTS56PlMBdFeG0AT3z6KUi6fNiRZW5oGAnpeCEHXo5k62SJkxz7rqXB3zL=
+maFyk2ABIw9o1XznPL8rBMo_J6yE0OjMaGHi0YnG1Ofw5MCS8mcPqwsjldqn3pzF_uZD3y5I7Q%=
+26expires_in%3D719%26nonce%3Dpp8pls5tsdlc77u2aae5va5e0%26jti%3Dcb66c3cc4bca=
+4db78d49f712f9e8e727&amp;allowGoogleServerFallback=3D0&quot;) 1x, url(&quot=
+;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dhttps%3A%2=
+F%2Fsandbox.scapp-corp.swisscom.com%2Fguacamole%2F%23%2F%3Ftoken_type%3Dbea=
+rer%26id_token%3DeyJhbGciOiJSUzI1NiIsImprdSI6Imh0dHBzOi8vbG9jYWxob3N0OjgwOD=
+AvdWFhL3Rva2VuX2tleXMiLCJraWQiOiJsZWdhY3ktdG9rZW4ta2V5IiwidHlwIjoiSldUIn0.e=
+yJzdWIiOiJhZGE2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYTkiLCJhdWQiOlsiYUhw=
+eGlZdmMxTGNGZnMzaUVwcHVCOXNvY2s1QVA5REdkOWdXZTRBUHpTY1czenA2NzV1T2doUVdEMDE=
+0RVJ0QSJdLCJpc3MiOiJodHRwczovL3Nzby1jb3Jwcm9vdC12Mi5zY2FwcC1zZXJ2aWNlcy5zd2=
+lzc2NvbS5jb20vb2F1dGgvdG9rZW4iLCJleHAiOjE3Mzg3NDE2NDksImlhdCI6MTczODc0MDkyO=
+SwiYW1yIjpbImV4dCJdLCJhenAiOiJhSHB4aVl2YzFMY0ZmczNpRXBwdUI5c29jazVBUDlER2Q5=
+Z1dlNEFQelNjVzN6cDY3NXVPZ2hRV0QwMTRFUnRBIiwicm9sZXMiOlsiREdfUEYwMC1JQU1fQml=
+ydGhyaWdodF9TQ1MtTUEiLCJGVV9QRjAwLU9NX1NjLUdyb3VwX2ludCIsIkREX1JQZXJtLVRlbG=
+VQcmVzZW5jZS1aSC03LXN0X0JHIiwiREdfQ29ycC1QR1AtQWNjZXNzX0FfMDAiLCJER19QRjAwL=
+UlBTV9DVVNfQmFzaWMiLCJER19Db3JwLUZTLUFjY2Vzc19SQVMtVlBOLUFjY2VzcyIsIkREX1N3=
+aXNzY29tLU1pdGFyYmVpdGVyREUiLCJERF9HSFItUE9ELU5FWCIsIkRHX1BGMDAtSUFNX0JpcnR=
+ocmlnaHRfU0MtTUEiLCJER19QRjAwLVdQLUFjY2Vzc19EV0ZfQV8wMDgiLCJERF9CdWlsZGluZy=
+1LcmktTWF0MTItMTQiLCJER19Db3JwLVNBUC1TQVBDSF9BX1NwZXNlblBHSCIsIkREX0NFTyIsI=
+kREX05FWC1MZXJuZW5kZURFIiwiUkdfUEYwMC1BenVyZVN5bmNVc2VyIiwiREdfSVQtU0JCLVJl=
+bGVhc2UtVG9vbF9BXzAxIiwiRERfR0hSLVBPRCIsIkREX0dIUiIsIkZVX1BGMDAtT01fR0hSLVB=
+PRF9pbnQiLCJER19Db3JwLUV4dHJhbmV0U1NPX0RfRFIwMiIsIkRHX1BGMDAtUDJTX05ld3Nyb2=
+9tLXVzZXIiLCJER19QRjAwLUNvcnBJRC1Db21odWJfQmFzaWMiLCJER19QRjAwLUlBTV9JREVBS=
+FVCX0Jhc2ljIiwiUlVfUEYwMC1BenVyZVN5bmNERCIsIkREX1N3aXNzY29tLU1pdGFyYmVpdGVy=
+REVJbnRlcm4iLCJGVV9QRjAwLU9NX0dIUi1QT0QtTkVYX2ludCIsIkREX0dIUi1QT0QtTkVYLTI=
+3IiwiREdfUEYwMC1JQU1fSG94aHVudF9CYXNpYyIsIkRMX1BGMDAtTzM2NS1BY2Nlc3NfT25seU=
+F6dXIiLCJGVV9QRjAwLU9NX0dIUl9pbnQiLCJSR19QRjAwLU8zNjUtQWNjZXNzX09mZmljZTM2N=
+SIsIkREX1N3aXNzY29tLUFsbGludGVybiIsIkRHX1BGMDAtRUFNLUxlYW5JWF9WaWV3ZXIiLCJE=
+R19Db3JwLVNBUC1BY2Nlc3NfQV8wMCIsIkRHX1BGMDAtQVBTX0dCU19UMDAxX0FsbGdlbWVpbl9=
+WaWV3ZXIiLCJER19QRjAwLUlBTV9TU1JfTUZBLU1JRC1TQ1MiLCJSR19QRjAwLUF6dXJlU3luY0=
+RHIiwiREdfQ29ycC1TQVAtQWNjZXNzX0FfMDMiLCJER19UZXN0LVRXUDIwMTEtQ29yZVNlcnZpY=
+2VfU18wNiIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xMiIsIkRHX0NvcnAtQXV0b1Rv=
+b2xzNC1BY2Nlc3NfQV8xMyIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xNCIsIkRHX0N=
+vcnAtVFdQMjAxMS1Db3JlU2VydmljZV9TXzA2IiwiREdfQ29ycC1TQVAtU0FQQ0hfQV9aZWl0ZX=
+JmUDBGIiwiRERfQnVpbGRpbmctS3JpLU1hdDEyIiwiRERfUlBFUk0tQmVyLUdlbjE0LUEzMzctM=
+DBfQkciLCJER19Db3JwLVNBUC1TQVBDSF9BX0Jhc2lzcm9sbGVfU0NTIiwiRERfUlBFUk0tWnVy=
+LUhhcjMtNy1zdC0wMF9CRyIsIkRHX2NvcnByb290X0RfRFI5OSIsIkRHX0NvcnAtVFdQMjAxMS1=
+BY2Nlc3NfQV8xOSIsIkZVX1BGMDAtT01fR0hSLVBPRC1ORVgtMjdfaW50IiwiRERfTkVYR3JvdX=
+BMZXJuZW5kZS1UZWFtSVQiLCJEb21haW4gVXNlcnMiLCJER19JVC1QcmlNYS1BY2Nlc3NfSV9DV=
+TAxIiwiREdfUEYwMC1JQU1fQ09ORklHREJfQmFzaWMiLCJER19DT1JQLVNBUC1CSS1BUFMiLCJE=
+RF9SUEVSTS1adXItSGFyMy03LWZpLTAwX0JHIiwiREdfR0hSLVJDT19JX0NVMDAiLCJER19QRjA=
+wLUlBTV9NSUFfQmFzaWMiXSwic2NvcGUiOlsib3BlbmlkIl0sIm5vbmNlIjoicHA4cGxzNXRzZG=
+xjNzd1MmFhZTV2YTVlMCIsImVtYWlsIjoiU2VsaW5hLkZyZXlAc3dpc3Njb20uY29tIiwiemlkI=
+joidWFhIiwib3JpZ2luIjoib3BlbmFtIiwianRpIjoiY2I2NmMzY2M0YmNhNGRiNzhkNDlmNzEy=
+ZjllOGU3MjciLCJhY3IiOnsidmFsdWVzIjpbInVybjpmZWRlcmF0aW9uOmF1dGhlbnRpY2F0aW9=
+uOndpbmRvd3MiXX0sInByZXZpb3VzX2xvZ29uX3RpbWUiOjE3MzY5MjcyMDE3MDAsInVzZXJfYX=
+R0cmlidXRlcyI6eyJlbXBsb3llZV90eXBlIjpbImludGVybiJdLCJvZmZpY2UiOlsiS3JpLU1hd=
+DEyLzE0Il0sImRlcGFydG1lbnQiOlsiR0hSLVBPRC1ORVgtMjciXSwibW9iaWxlX251bWJlciI6=
+WyIrNDEtNzktNTY5IDYyIDU4Il0sImVtcGxveWVlX2lkIjpbIjcxNDU5ODkiXX0sImVtYWlsX3Z=
+lcmlmaWVkIjpmYWxzZSwiY2xpZW50X2lkIjoiYUhweGlZdmMxTGNGZnMzaUVwcHVCOXNvY2s1QV=
+A5REdkOWdXZTRBUHpTY1czenA2NzV1T2doUVdEMDE0RVJ0QSIsImNpZCI6ImFIcHhpWXZjMUxjR=
+mZzM2lFcHB1Qjlzb2NrNUFQOURHZDlnV2U0QVB6U2NXM3pwNjc1dU9naFFXRDAxNEVSdEEiLCJn=
+cmFudF90eXBlIjoiaW1wbGljaXQiLCJ1c2VyX25hbWUiOiJUQUFGUlNFMCIsInJldl9zaWciOiI=
+yYmI1NzFmOSIsInVzZXJfaWQiOiJhZGE2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYT=
+kiLCJhdXRoX3RpbWUiOjE3Mzg3NDA5Mjh9.eX7pjfRXuaktrHjETf0mnPhe67J2NJ30MTYykP8p=
+Oyl2VbpYwuPRDGy1mzVs9p1YVwem0-lQXSOXkrm1LcdU9Q3o_KX3n_XyWk7PUOFVdzdNCjw3rXr=
+Y81gdfhNU1D5gwv5h1bUbJLOvYGfIRvRAwt0wlDtcWy32VvcjT1-mh7XS8MHa1m0-Ojp7ytsmsN=
+SKVi9XC1OemdKDGaSf9TyTS56PlMBdFeG0AT3z6KUi6fNiRZW5oGAnpeCEHXo5k62SJkxz7rqXB=
+3zLmaFyk2ABIw9o1XznPL8rBMo_J6yE0OjMaGHi0YnG1Ofw5MCS8mcPqwsjldqn3pzF_uZD3y5I=
+7Q%26expires_in%3D719%26nonce%3Dpp8pls5tsdlc77u2aae5va5e0%26jti%3Dcb66c3cc4=
+bca4db78d49f712f9e8e727&amp;allowGoogleServerFallback=3D0&quot;) 2x);"></di=
+v><div id=3D"website-text" role=3D"gridcell"><div id=3D"website-title" clas=
+s=3D"elided-text" title=3D"Apache Guacamole">
+    Apache Guacamole
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://sand=
+box.scapp-corp.swisscom.com/guacamole/#/?token_type=3Dbearer&amp;id_token=
+=3DeyJhbGciOiJSUzI1NiIsImprdSI6Imh0dHBzOi8vbG9jYWxob3N0OjgwODAvdWFhL3Rva2Vu=
+X2tleXMiLCJraWQiOiJsZWdhY3ktdG9rZW4ta2V5IiwidHlwIjoiSldUIn0.eyJzdWIiOiJhZGE=
+2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYTkiLCJhdWQiOlsiYUhweGlZdmMxTGNGZn=
+MzaUVwcHVCOXNvY2s1QVA5REdkOWdXZTRBUHpTY1czenA2NzV1T2doUVdEMDE0RVJ0QSJdLCJpc=
+3MiOiJodHRwczovL3Nzby1jb3Jwcm9vdC12Mi5zY2FwcC1zZXJ2aWNlcy5zd2lzc2NvbS5jb20v=
+b2F1dGgvdG9rZW4iLCJleHAiOjE3Mzg3NDE2NDksImlhdCI6MTczODc0MDkyOSwiYW1yIjpbImV=
+4dCJdLCJhenAiOiJhSHB4aVl2YzFMY0ZmczNpRXBwdUI5c29jazVBUDlER2Q5Z1dlNEFQelNjVz=
+N6cDY3NXVPZ2hRV0QwMTRFUnRBIiwicm9sZXMiOlsiREdfUEYwMC1JQU1fQmlydGhyaWdodF9TQ=
+1MtTUEiLCJGVV9QRjAwLU9NX1NjLUdyb3VwX2ludCIsIkREX1JQZXJtLVRlbGVQcmVzZW5jZS1a=
+SC03LXN0X0JHIiwiREdfQ29ycC1QR1AtQWNjZXNzX0FfMDAiLCJER19QRjAwLUlBTV9DVVNfQmF=
+zaWMiLCJER19Db3JwLUZTLUFjY2Vzc19SQVMtVlBOLUFjY2VzcyIsIkREX1N3aXNzY29tLU1pdG=
+FyYmVpdGVyREUiLCJERF9HSFItUE9ELU5FWCIsIkRHX1BGMDAtSUFNX0JpcnRocmlnaHRfU0MtT=
+UEiLCJER19QRjAwLVdQLUFjY2Vzc19EV0ZfQV8wMDgiLCJERF9CdWlsZGluZy1LcmktTWF0MTIt=
+MTQiLCJER19Db3JwLVNBUC1TQVBDSF9BX1NwZXNlblBHSCIsIkREX0NFTyIsIkREX05FWC1MZXJ=
+uZW5kZURFIiwiUkdfUEYwMC1BenVyZVN5bmNVc2VyIiwiREdfSVQtU0JCLVJlbGVhc2UtVG9vbF=
+9BXzAxIiwiRERfR0hSLVBPRCIsIkREX0dIUiIsIkZVX1BGMDAtT01fR0hSLVBPRF9pbnQiLCJER=
+19Db3JwLUV4dHJhbmV0U1NPX0RfRFIwMiIsIkRHX1BGMDAtUDJTX05ld3Nyb29tLXVzZXIiLCJE=
+R19QRjAwLUNvcnBJRC1Db21odWJfQmFzaWMiLCJER19QRjAwLUlBTV9JREVBSFVCX0Jhc2ljIiw=
+iUlVfUEYwMC1BenVyZVN5bmNERCIsIkREX1N3aXNzY29tLU1pdGFyYmVpdGVyREVJbnRlcm4iLC=
+JGVV9QRjAwLU9NX0dIUi1QT0QtTkVYX2ludCIsIkREX0dIUi1QT0QtTkVYLTI3IiwiREdfUEYwM=
+C1JQU1fSG94aHVudF9CYXNpYyIsIkRMX1BGMDAtTzM2NS1BY2Nlc3NfT25seUF6dXIiLCJGVV9Q=
+RjAwLU9NX0dIUl9pbnQiLCJSR19QRjAwLU8zNjUtQWNjZXNzX09mZmljZTM2NSIsIkREX1N3aXN=
+zY29tLUFsbGludGVybiIsIkRHX1BGMDAtRUFNLUxlYW5JWF9WaWV3ZXIiLCJER19Db3JwLVNBUC=
+1BY2Nlc3NfQV8wMCIsIkRHX1BGMDAtQVBTX0dCU19UMDAxX0FsbGdlbWVpbl9WaWV3ZXIiLCJER=
+19QRjAwLUlBTV9TU1JfTUZBLU1JRC1TQ1MiLCJSR19QRjAwLUF6dXJlU3luY0RHIiwiREdfQ29y=
+cC1TQVAtQWNjZXNzX0FfMDMiLCJER19UZXN0LVRXUDIwMTEtQ29yZVNlcnZpY2VfU18wNiIsIkR=
+HX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xMiIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3=
+NfQV8xMyIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xNCIsIkRHX0NvcnAtVFdQMjAxM=
+S1Db3JlU2VydmljZV9TXzA2IiwiREdfQ29ycC1TQVAtU0FQQ0hfQV9aZWl0ZXJmUDBGIiwiRERf=
+QnVpbGRpbmctS3JpLU1hdDEyIiwiRERfUlBFUk0tQmVyLUdlbjE0LUEzMzctMDBfQkciLCJER19=
+Db3JwLVNBUC1TQVBDSF9BX0Jhc2lzcm9sbGVfU0NTIiwiRERfUlBFUk0tWnVyLUhhcjMtNy1zdC=
+0wMF9CRyIsIkRHX2NvcnByb290X0RfRFI5OSIsIkRHX0NvcnAtVFdQMjAxMS1BY2Nlc3NfQV8xO=
+SIsIkZVX1BGMDAtT01fR0hSLVBPRC1ORVgtMjdfaW50IiwiRERfTkVYR3JvdXBMZXJuZW5kZS1U=
+ZWFtSVQiLCJEb21haW4gVXNlcnMiLCJER19JVC1QcmlNYS1BY2Nlc3NfSV9DVTAxIiwiREdfUEY=
+wMC1JQU1fQ09ORklHREJfQmFzaWMiLCJER19DT1JQLVNBUC1CSS1BUFMiLCJERF9SUEVSTS1adX=
+ItSGFyMy03LWZpLTAwX0JHIiwiREdfR0hSLVJDT19JX0NVMDAiLCJER19QRjAwLUlBTV9NSUFfQ=
+mFzaWMiXSwic2NvcGUiOlsib3BlbmlkIl0sIm5vbmNlIjoicHA4cGxzNXRzZGxjNzd1MmFhZTV2=
+YTVlMCIsImVtYWlsIjoiU2VsaW5hLkZyZXlAc3dpc3Njb20uY29tIiwiemlkIjoidWFhIiwib3J=
+pZ2luIjoib3BlbmFtIiwianRpIjoiY2I2NmMzY2M0YmNhNGRiNzhkNDlmNzEyZjllOGU3MjciLC=
+JhY3IiOnsidmFsdWVzIjpbInVybjpmZWRlcmF0aW9uOmF1dGhlbnRpY2F0aW9uOndpbmRvd3MiX=
+X0sInByZXZpb3VzX2xvZ29uX3RpbWUiOjE3MzY5MjcyMDE3MDAsInVzZXJfYXR0cmlidXRlcyI6=
+eyJlbXBsb3llZV90eXBlIjpbImludGVybiJdLCJvZmZpY2UiOlsiS3JpLU1hdDEyLzE0Il0sImR=
+lcGFydG1lbnQiOlsiR0hSLVBPRC1ORVgtMjciXSwibW9iaWxlX251bWJlciI6WyIrNDEtNzktNT=
+Y5IDYyIDU4Il0sImVtcGxveWVlX2lkIjpbIjcxNDU5ODkiXX0sImVtYWlsX3ZlcmlmaWVkIjpmY=
+WxzZSwiY2xpZW50X2lkIjoiYUhweGlZdmMxTGNGZnMzaUVwcHVCOXNvY2s1QVA5REdkOWdXZTRB=
+UHpTY1czenA2NzV1T2doUVdEMDE0RVJ0QSIsImNpZCI6ImFIcHhpWXZjMUxjRmZzM2lFcHB1Qjl=
+zb2NrNUFQOURHZDlnV2U0QVB6U2NXM3pwNjc1dU9naFFXRDAxNEVSdEEiLCJncmFudF90eXBlIj=
+oiaW1wbGljaXQiLCJ1c2VyX25hbWUiOiJUQUFGUlNFMCIsInJldl9zaWciOiIyYmI1NzFmOSIsI=
+nVzZXJfaWQiOiJhZGE2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYTkiLCJhdXRoX3Rp=
+bWUiOjE3Mzg3NDA5Mjh9.eX7pjfRXuaktrHjETf0mnPhe67J2NJ30MTYykP8pOyl2VbpYwuPRDG=
+y1mzVs9p1YVwem0-lQXSOXkrm1LcdU9Q3o_KX3n_XyWk7PUOFVdzdNCjw3rXrY81gdfhNU1D5gw=
+v5h1bUbJLOvYGfIRvRAwt0wlDtcWy32VvcjT1-mh7XS8MHa1m0-Ojp7ytsmsNSKVi9XC1OemdKD=
+GaSf9TyTS56PlMBdFeG0AT3z6KUi6fNiRZW5oGAnpeCEHXo5k62SJkxz7rqXB3zLmaFyk2ABIw9=
+o1XznPL8rBMo_J6yE0OjMaGHi0YnG1Ofw5MCS8mcPqwsjldqn3pzF_uZD3y5I7Q&amp;expires=
+_in=3D719&amp;nonce=3Dpp8pls5tsdlc77u2aae5va5e0&amp;jti=3Dcb66c3cc4bca4db78=
+d49f712f9e8e727">
+    https://sandbox.scapp-corp.swisscom.com/guacamole/#/?token_type=3Dbeare=
+r&amp;id_token=3DeyJhbGciOiJSUzI1NiIsImprdSI6Imh0dHBzOi8vbG9jYWxob3N0OjgwOD=
+AvdWFhL3Rva2VuX2tleXMiLCJraWQiOiJsZWdhY3ktdG9rZW4ta2V5IiwidHlwIjoiSldUIn0.e=
+yJzdWIiOiJhZGE2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYTkiLCJhdWQiOlsiYUhw=
+eGlZdmMxTGNGZnMzaUVwcHVCOXNvY2s1QVA5REdkOWdXZTRBUHpTY1czenA2NzV1T2doUVdEMDE=
+0RVJ0QSJdLCJpc3MiOiJodHRwczovL3Nzby1jb3Jwcm9vdC12Mi5zY2FwcC1zZXJ2aWNlcy5zd2=
+lzc2NvbS5jb20vb2F1dGgvdG9rZW4iLCJleHAiOjE3Mzg3NDE2NDksImlhdCI6MTczODc0MDkyO=
+SwiYW1yIjpbImV4dCJdLCJhenAiOiJhSHB4aVl2YzFMY0ZmczNpRXBwdUI5c29jazVBUDlER2Q5=
+Z1dlNEFQelNjVzN6cDY3NXVPZ2hRV0QwMTRFUnRBIiwicm9sZXMiOlsiREdfUEYwMC1JQU1fQml=
+ydGhyaWdodF9TQ1MtTUEiLCJGVV9QRjAwLU9NX1NjLUdyb3VwX2ludCIsIkREX1JQZXJtLVRlbG=
+VQcmVzZW5jZS1aSC03LXN0X0JHIiwiREdfQ29ycC1QR1AtQWNjZXNzX0FfMDAiLCJER19QRjAwL=
+UlBTV9DVVNfQmFzaWMiLCJER19Db3JwLUZTLUFjY2Vzc19SQVMtVlBOLUFjY2VzcyIsIkREX1N3=
+aXNzY29tLU1pdGFyYmVpdGVyREUiLCJERF9HSFItUE9ELU5FWCIsIkRHX1BGMDAtSUFNX0JpcnR=
+ocmlnaHRfU0MtTUEiLCJER19QRjAwLVdQLUFjY2Vzc19EV0ZfQV8wMDgiLCJERF9CdWlsZGluZy=
+1LcmktTWF0MTItMTQiLCJER19Db3JwLVNBUC1TQVBDSF9BX1NwZXNlblBHSCIsIkREX0NFTyIsI=
+kREX05FWC1MZXJuZW5kZURFIiwiUkdfUEYwMC1BenVyZVN5bmNVc2VyIiwiREdfSVQtU0JCLVJl=
+bGVhc2UtVG9vbF9BXzAxIiwiRERfR0hSLVBPRCIsIkREX0dIUiIsIkZVX1BGMDAtT01fR0hSLVB=
+PRF9pbnQiLCJER19Db3JwLUV4dHJhbmV0U1NPX0RfRFIwMiIsIkRHX1BGMDAtUDJTX05ld3Nyb2=
+9tLXVzZXIiLCJER19QRjAwLUNvcnBJRC1Db21odWJfQmFzaWMiLCJER19QRjAwLUlBTV9JREVBS=
+FVCX0Jhc2ljIiwiUlVfUEYwMC1BenVyZVN5bmNERCIsIkREX1N3aXNzY29tLU1pdGFyYmVpdGVy=
+REVJbnRlcm4iLCJGVV9QRjAwLU9NX0dIUi1QT0QtTkVYX2ludCIsIkREX0dIUi1QT0QtTkVYLTI=
+3IiwiREdfUEYwMC1JQU1fSG94aHVudF9CYXNpYyIsIkRMX1BGMDAtTzM2NS1BY2Nlc3NfT25seU=
+F6dXIiLCJGVV9QRjAwLU9NX0dIUl9pbnQiLCJSR19QRjAwLU8zNjUtQWNjZXNzX09mZmljZTM2N=
+SIsIkREX1N3aXNzY29tLUFsbGludGVybiIsIkRHX1BGMDAtRUFNLUxlYW5JWF9WaWV3ZXIiLCJE=
+R19Db3JwLVNBUC1BY2Nlc3NfQV8wMCIsIkRHX1BGMDAtQVBTX0dCU19UMDAxX0FsbGdlbWVpbl9=
+WaWV3ZXIiLCJER19QRjAwLUlBTV9TU1JfTUZBLU1JRC1TQ1MiLCJSR19QRjAwLUF6dXJlU3luY0=
+RHIiwiREdfQ29ycC1TQVAtQWNjZXNzX0FfMDMiLCJER19UZXN0LVRXUDIwMTEtQ29yZVNlcnZpY=
+2VfU18wNiIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xMiIsIkRHX0NvcnAtQXV0b1Rv=
+b2xzNC1BY2Nlc3NfQV8xMyIsIkRHX0NvcnAtQXV0b1Rvb2xzNC1BY2Nlc3NfQV8xNCIsIkRHX0N=
+vcnAtVFdQMjAxMS1Db3JlU2VydmljZV9TXzA2IiwiREdfQ29ycC1TQVAtU0FQQ0hfQV9aZWl0ZX=
+JmUDBGIiwiRERfQnVpbGRpbmctS3JpLU1hdDEyIiwiRERfUlBFUk0tQmVyLUdlbjE0LUEzMzctM=
+DBfQkciLCJER19Db3JwLVNBUC1TQVBDSF9BX0Jhc2lzcm9sbGVfU0NTIiwiRERfUlBFUk0tWnVy=
+LUhhcjMtNy1zdC0wMF9CRyIsIkRHX2NvcnByb290X0RfRFI5OSIsIkRHX0NvcnAtVFdQMjAxMS1=
+BY2Nlc3NfQV8xOSIsIkZVX1BGMDAtT01fR0hSLVBPRC1ORVgtMjdfaW50IiwiRERfTkVYR3JvdX=
+BMZXJuZW5kZS1UZWFtSVQiLCJEb21haW4gVXNlcnMiLCJER19JVC1QcmlNYS1BY2Nlc3NfSV9DV=
+TAxIiwiREdfUEYwMC1JQU1fQ09ORklHREJfQmFzaWMiLCJER19DT1JQLVNBUC1CSS1BUFMiLCJE=
+RF9SUEVSTS1adXItSGFyMy03LWZpLTAwX0JHIiwiREdfR0hSLVJDT19JX0NVMDAiLCJER19QRjA=
+wLUlBTV9NSUFfQmFzaWMiXSwic2NvcGUiOlsib3BlbmlkIl0sIm5vbmNlIjoicHA4cGxzNXRzZG=
+xjNzd1MmFhZTV2YTVlMCIsImVtYWlsIjoiU2VsaW5hLkZyZXlAc3dpc3Njb20uY29tIiwiemlkI=
+joidWFhIiwib3JpZ2luIjoib3BlbmFtIiwianRpIjoiY2I2NmMzY2M0YmNhNGRiNzhkNDlmNzEy=
+ZjllOGU3MjciLCJhY3IiOnsidmFsdWVzIjpbInVybjpmZWRlcmF0aW9uOmF1dGhlbnRpY2F0aW9=
+uOndpbmRvd3MiXX0sInByZXZpb3VzX2xvZ29uX3RpbWUiOjE3MzY5MjcyMDE3MDAsInVzZXJfYX=
+R0cmlidXRlcyI6eyJlbXBsb3llZV90eXBlIjpbImludGVybiJdLCJvZmZpY2UiOlsiS3JpLU1hd=
+DEyLzE0Il0sImRlcGFydG1lbnQiOlsiR0hSLVBPRC1ORVgtMjciXSwibW9iaWxlX251bWJlciI6=
+WyIrNDEtNzktNTY5IDYyIDU4Il0sImVtcGxveWVlX2lkIjpbIjcxNDU5ODkiXX0sImVtYWlsX3Z=
+lcmlmaWVkIjpmYWxzZSwiY2xpZW50X2lkIjoiYUhweGlZdmMxTGNGZnMzaUVwcHVCOXNvY2s1QV=
+A5REdkOWdXZTRBUHpTY1czenA2NzV1T2doUVdEMDE0RVJ0QSIsImNpZCI6ImFIcHhpWXZjMUxjR=
+mZzM2lFcHB1Qjlzb2NrNUFQOURHZDlnV2U0QVB6U2NXM3pwNjc1dU9naFFXRDAxNEVSdEEiLCJn=
+cmFudF90eXBlIjoiaW1wbGljaXQiLCJ1c2VyX25hbWUiOiJUQUFGUlNFMCIsInJldl9zaWciOiI=
+yYmI1NzFmOSIsInVzZXJfaWQiOiJhZGE2OTU1NS00MTUxLTRhNzktOTc2YS05MGI3NjI2MTJmYT=
+kiLCJhdXRoX3RpbWUiOjE3Mzg3NDA5Mjh9.eX7pjfRXuaktrHjETf0mnPhe67J2NJ30MTYykP8p=
+Oyl2VbpYwuPRDGy1mzVs9p1YVwem0-lQXSOXkrm1LcdU9Q3o_KX3n_XyWk7PUOFVdzdNCjw3rXr=
+Y81gdfhNU1D5gwv5h1bUbJLOvYGfIRvRAwt0wlDtcWy32VvcjT1-mh7XS8MHa1m0-Ojp7ytsmsN=
+SKVi9XC1OemdKDGaSf9TyTS56PlMBdFeG0AT3z6KUi6fNiRZW5oGAnpeCEHXo5k62SJkxz7rqXB=
+3zLmaFyk2ABIw9o1XznPL8rBMo_J6yE0OjMaGHi0YnG1Ofw5MCS8mcPqwsjldqn3pzF_uZD3y5I=
+7Q&amp;expires_in=3D719&amp;nonce=3Dpp8pls5tsdlc77u2aae5va5e0&amp;jti=3Dcb6=
+6c3cc4bca4db78d49f712f9e8e727
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Apache Guacamole"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_5" aria-selected=3D"false" aria-rowindex=3D"6" tabindex=3D"-1" aria-=
+label=3D"DNS-CNS Kunden DNS Block Status" style=3D"transform: translate3d(0=
+px, 200px, 0px);"><template shadowmode=3D"open"><!--_html_template_start_--=
+><div id=3D"icon" class=3D"website-icon" style=3D"background-image: image-s=
+et(url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=
+=3Dhttps%3A%2F%2Fp-dnsa-script-1.sharedit.ch%2Fdns%2Fcns%2FgetDNSblockReaso=
+n.html&amp;allowGoogleServerFallback=3D0&quot;) 1x, url(&quot;chrome://favi=
+con2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dhttps%3A%2F%2Fp-dnsa-scr=
+ipt-1.sharedit.ch%2Fdns%2Fcns%2FgetDNSblockReason.html&amp;allowGoogleServe=
+rFallback=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"=
+><div id=3D"website-title" class=3D"elided-text" title=3D"DNS-CNS Kunden DN=
+S Block Status">
+    DNS-CNS Kunden DNS Block Status
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://p-dn=
+sa-script-1.sharedit.ch/dns/cns/getDNSblockReason.html">
+    https://p-dnsa-script-1.sharedit.ch/dns/cns/getDNSblockReason.html
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr DNS-CNS Kunden DNS Block Status"><template shadowmode=3D"op=
+en"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_6" aria-selected=3D"false" aria-rowindex=3D"7" tabindex=3D"-1" aria-=
+label=3D"prod.dnsapi.sharedit.ch/listman/all/igtest.bluewin.org" style=3D"t=
+ransform: translate3d(0px, 240px, 0px);"><template shadowmode=3D"open"><!--=
+_html_template_start_--><div id=3D"icon" class=3D"website-icon" style=3D"ba=
+ckground-image: image-set(url(&quot;chrome://favicon2/?size=3D16&amp;scaleF=
+actor=3D1x&amp;pageUrl=3Dhttps%3A%2F%2Fdnsadminro%3Adnsapiread%40prod.dnsap=
+i.sharedit.ch%2Flistman%2Fall%2Figtest.bluewin.org&amp;allowGoogleServerFal=
+lback=3D0&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=
+=3D2x&amp;pageUrl=3Dhttps%3A%2F%2Fdnsadminro%3Adnsapiread%40prod.dnsapi.sha=
+redit.ch%2Flistman%2Fall%2Figtest.bluewin.org&amp;allowGoogleServerFallback=
+=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"><div id=
+=3D"website-title" class=3D"elided-text" title=3D"prod.dnsapi.sharedit.ch/l=
+istman/all/igtest.bluewin.org">
+    prod.dnsapi.sharedit.ch/listman/all/igtest.bluewin.org
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://dnsa=
+dminro:dnsapiread@prod.dnsapi.sharedit.ch/listman/all/igtest.bluewin.org">
+    https://dnsadminro:dnsapiread@prod.dnsapi.sharedit.ch/listman/all/igtes=
+t.bluewin.org
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr prod.dnsapi.sharedit.ch/listman/all/igtest.bluewin.org"><te=
+mplate shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_7" aria-selected=3D"false" aria-rowindex=3D"8" tabindex=3D"-1" aria-=
+label=3D"Swisscom IDBroker" style=3D"transform: translate3d(0px, 280px, 0px=
+);"><template shadowmode=3D"open"><!--_html_template_start_--><div id=3D"ic=
+on" class=3D"website-icon" style=3D"background-image: image-set(url(&quot;c=
+hrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%=
+2Fidbroker.swisscom.com%2Fsecure%2FXUI%2F%3Frealm%3D%2Fidbroker%26spEntityI=
+D%3Dhttps%3A%2F%2Fjira.swisscom.com%2Fplugins%2Fservlet%2Fsamlsso%26service=
+%3DidBroker_Tree_MFAB_AAL2%26goto%3Dhttps%3A%2F%2Fidbroker.swisscom.com%3A4=
+43%2Fsecure%2Fsaml2%2Fcontinue%2FmetaAlias%2Fidbroker%2Fidp%3FsecondVisitUr=
+l%253D%2Fsecure%2FSSOPOST%2FmetaAlias%2Fidbroker%2Fidp%3FReqID%25253D_94f35=
+dec-1f79-465f-a6c2-0cc855a5e64f%26AuthCookie%3D%23login%2F&amp;allowGoogleS=
+erverFallback=3D0&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;sca=
+leFactor=3D2x&amp;pageUrl=3Dhttps%3A%2F%2Fidbroker.swisscom.com%2Fsecure%2F=
+XUI%2F%3Frealm%3D%2Fidbroker%26spEntityID%3Dhttps%3A%2F%2Fjira.swisscom.com=
+%2Fplugins%2Fservlet%2Fsamlsso%26service%3DidBroker_Tree_MFAB_AAL2%26goto%3=
+Dhttps%3A%2F%2Fidbroker.swisscom.com%3A443%2Fsecure%2Fsaml2%2Fcontinue%2Fme=
+taAlias%2Fidbroker%2Fidp%3FsecondVisitUrl%253D%2Fsecure%2FSSOPOST%2FmetaAli=
+as%2Fidbroker%2Fidp%3FReqID%25253D_94f35dec-1f79-465f-a6c2-0cc855a5e64f%26A=
+uthCookie%3D%23login%2F&amp;allowGoogleServerFallback=3D0&quot;) 2x);"></di=
+v><div id=3D"website-text" role=3D"gridcell"><div id=3D"website-title" clas=
+s=3D"elided-text" title=3D"Swisscom IDBroker">
+    Swisscom IDBroker
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://idbr=
+oker.swisscom.com/secure/XUI/?realm=3D/idbroker&amp;spEntityID=3Dhttps://ji=
+ra.swisscom.com/plugins/servlet/samlsso&amp;service=3DidBroker_Tree_MFAB_AA=
+L2&amp;goto=3Dhttps://idbroker.swisscom.com:443/secure/saml2/continue/metaA=
+lias/idbroker/idp?secondVisitUrl%3D/secure/SSOPOST/metaAlias/idbroker/idp?R=
+eqID%253D_94f35dec-1f79-465f-a6c2-0cc855a5e64f&amp;AuthCookie=3D#login/">
+    https://idbroker.swisscom.com/secure/XUI/?realm=3D/idbroker&amp;spEntit=
+yID=3Dhttps://jira.swisscom.com/plugins/servlet/samlsso&amp;service=3DidBro=
+ker_Tree_MFAB_AAL2&amp;goto=3Dhttps://idbroker.swisscom.com:443/secure/saml=
+2/continue/metaAlias/idbroker/idp?secondVisitUrl%3D/secure/SSOPOST/metaAlia=
+s/idbroker/idp?ReqID%253D_94f35dec-1f79-465f-a6c2-0cc855a5e64f&amp;AuthCook=
+ie=3D#login/
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Swisscom IDBroker"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_8" aria-selected=3D"false" aria-rowindex=3D"9" tabindex=3D"0" aria-l=
+abel=3D"CYD ABUSE Kanban - Agile Board - Swisscom JIRA" style=3D"transform:=
+ translate3d(0px, 320px, 0px);"><template shadowmode=3D"open"><!--_html_tem=
+plate_start_--><div id=3D"icon" class=3D"website-icon" style=3D"background-=
+image: image-set(url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D1=
+x&amp;pageUrl=3Dhttps%3A%2F%2Fjira.swisscom.com%2Fsecure%2FRapidBoard.jspa%=
+3FprojectKey%3DGSECYD%26rapidView%3D18945&amp;allowGoogleServerFallback=3D0=
+&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp=
+;pageUrl=3Dhttps%3A%2F%2Fjira.swisscom.com%2Fsecure%2FRapidBoard.jspa%3Fpro=
+jectKey%3DGSECYD%26rapidView%3D18945&amp;allowGoogleServerFallback=3D0&quot=
+;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"><div id=3D"websit=
+e-title" class=3D"elided-text" title=3D"CYD ABUSE Kanban - Agile Board - Sw=
+isscom JIRA">
+    CYD ABUSE Kanban - Agile Board - Swisscom JIRA
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://jira=
+.swisscom.com/secure/RapidBoard.jspa?projectKey=3DGSECYD&amp;rapidView=3D18=
+945">
+    https://jira.swisscom.com/secure/RapidBoard.jspa?projectKey=3DGSECYD&am=
+p;rapidView=3D18945
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr CYD ABUSE Kanban - Agile Board - Swisscom JIRA"><template s=
+hadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div><cr-ripple id=3D"ink"><template shadowmode=3D"open"><!----></template=
+></cr-ripple></template></cr-icon-button></div><!--_html_template_end_--></=
+template></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" i=
+d=3D"bookmark_9" aria-selected=3D"false" aria-rowindex=3D"10" tabindex=3D"-=
+1" aria-label=3D"Operation - Agile Board - Swisscom JIRA" class=3D"" style=
+=3D"transform: translate3d(0px, 360px, 0px);"><template shadowmode=3D"open"=
+><!--_html_template_start_--><div id=3D"icon" class=3D"website-icon" style=
+=3D"background-image: image-set(url(&quot;chrome://favicon2/?size=3D16&amp;=
+scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%2Fjira.swisscom.com%2Fsecure%2FR=
+apidBoard.jspa%3FprojectKey%3DABU%26rapidView%3D18560&amp;allowGoogleServer=
+Fallback=3D0&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFac=
+tor=3D2x&amp;pageUrl=3Dhttps%3A%2F%2Fjira.swisscom.com%2Fsecure%2FRapidBoar=
+d.jspa%3FprojectKey%3DABU%26rapidView%3D18560&amp;allowGoogleServerFallback=
+=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"><div id=
+=3D"website-title" class=3D"elided-text" title=3D"Operation - Agile Board -=
+ Swisscom JIRA">
+    Operation - Agile Board - Swisscom JIRA
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://jira=
+.swisscom.com/secure/RapidBoard.jspa?projectKey=3DABU&amp;rapidView=3D18560=
+">
+    https://jira.swisscom.com/secure/RapidBoard.jspa?projectKey=3DABU&amp;r=
+apidView=3D18560
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Operation - Agile Board - Swisscom JIRA"><template shadowmo=
+de=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_10" aria-selected=3D"false" aria-rowindex=3D"11" tabindex=3D"-1" ari=
+a-label=3D"Swisscom Sales Partner Login" style=3D"transform: translate3d(0p=
+x, 400px, 0px);"><template shadowmode=3D"open"><!--_html_template_start_-->=
+<div id=3D"icon" class=3D"website-icon" style=3D"background-image: image-se=
+t(url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=
+=3Dhttps%3A%2F%2Finternal.swissptt.ch%2Fam%2FXUI%2F%3Frealm%3Dcsukerb%26ser=
+vice%3Dcsukerbtree%26goto%3Dhttps%3A%2F%2Finternal.swissptt.ch%2Fslogin%2Fc=
+sulogin%2Flogin%23failedLogin&amp;allowGoogleServerFallback=3D0&quot;) 1x, =
+url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dh=
+ttps%3A%2F%2Finternal.swissptt.ch%2Fam%2FXUI%2F%3Frealm%3Dcsukerb%26service=
+%3Dcsukerbtree%26goto%3Dhttps%3A%2F%2Finternal.swissptt.ch%2Fslogin%2Fcsulo=
+gin%2Flogin%23failedLogin&amp;allowGoogleServerFallback=3D0&quot;) 2x);"></=
+div><div id=3D"website-text" role=3D"gridcell"><div id=3D"website-title" cl=
+ass=3D"elided-text" title=3D"Swisscom Sales Partner Login">
+    Swisscom Sales Partner Login
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://inte=
+rnal.swissptt.ch/am/XUI/?realm=3Dcsukerb&amp;service=3Dcsukerbtree&amp;goto=
+=3Dhttps://internal.swissptt.ch/slogin/csulogin/login#failedLogin">
+    https://internal.swissptt.ch/am/XUI/?realm=3Dcsukerb&amp;service=3Dcsuk=
+erbtree&amp;goto=3Dhttps://internal.swissptt.ch/slogin/csulogin/login#faile=
+dLogin
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Swisscom Sales Partner Login"><template shadowmode=3D"open"=
+><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_11" aria-selected=3D"false" aria-rowindex=3D"12" tabindex=3D"-1" ari=
+a-label=3D"Symphony cucs02" style=3D"transform: translate3d(0px, 440px, 0px=
+);"><template shadowmode=3D"open"><!--_html_template_start_--><div id=3D"ic=
+on" class=3D"website-icon" style=3D"background-image: image-set(url(&quot;c=
+hrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%=
+2Finternal.swissptt.ch%2Fsiebel%2Fapp%2Fcuc%2Fdeu%2F%3FSWECmd%3DLogin%26SWE=
+BHWND%3D%26_tid%3D1738749631%26SWECM%3DS%26SWETS%3D1738749631%26SWEHo%3Dint=
+ernal.swissptt.ch&amp;allowGoogleServerFallback=3D0&quot;) 1x, url(&quot;ch=
+rome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dhttps%3A%2F%2=
+Finternal.swissptt.ch%2Fsiebel%2Fapp%2Fcuc%2Fdeu%2F%3FSWECmd%3DLogin%26SWEB=
+HWND%3D%26_tid%3D1738749631%26SWECM%3DS%26SWETS%3D1738749631%26SWEHo%3Dinte=
+rnal.swissptt.ch&amp;allowGoogleServerFallback=3D0&quot;) 2x);"></div><div =
+id=3D"website-text" role=3D"gridcell"><div id=3D"website-title" class=3D"el=
+ided-text" title=3D"Symphony cucs02">
+    Symphony cucs02
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://inte=
+rnal.swissptt.ch/siebel/app/cuc/deu/?SWECmd=3DLogin&amp;SWEBHWND=3D&amp;_ti=
+d=3D1738749631&amp;SWECM=3DS&amp;SWETS=3D1738749631&amp;SWEHo=3Dinternal.sw=
+issptt.ch">
+    https://internal.swissptt.ch/siebel/app/cuc/deu/?SWECmd=3DLogin&amp;SWE=
+BHWND=3D&amp;_tid=3D1738749631&amp;SWECM=3DS&amp;SWETS=3D1738749631&amp;SWE=
+Ho=3Dinternal.swissptt.ch
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Symphony cucs02"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_12" aria-selected=3D"false" aria-rowindex=3D"13" tabindex=3D"-1" ari=
+a-label=3D"Mail Tool" style=3D"transform: translate3d(0px, 480px, 0px);"><t=
+emplate shadowmode=3D"open"><!--_html_template_start_--><div id=3D"icon" cl=
+ass=3D"website-icon" style=3D"background-image: image-set(url(&quot;chrome:=
+//favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%2Fmail=
+tool.scapp-corp.swisscom.com%2F&amp;allowGoogleServerFallback=3D0&quot;) 1x=
+, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=
+=3Dhttps%3A%2F%2Fmailtool.scapp-corp.swisscom.com%2F&amp;allowGoogleServerF=
+allback=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"><=
+div id=3D"website-title" class=3D"elided-text" title=3D"Mail Tool">
+    Mail Tool
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://mail=
+tool.scapp-corp.swisscom.com/">
+    https://mailtool.scapp-corp.swisscom.com/
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Mail Tool"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_13" aria-selected=3D"false" aria-rowindex=3D"14" tabindex=3D"-1" ari=
+a-label=3D"Scannen" style=3D"transform: translate3d(0px, 520px, 0px);"><tem=
+plate shadowmode=3D"open"><!--_html_template_start_--><div id=3D"icon" clas=
+s=3D"folder-icon icon-folder-open"></div><div id=3D"website-text" role=3D"g=
+ridcell"><div id=3D"website-title" class=3D"elided-text" title=3D"Scannen">
+    Scannen
+  </div><div id=3D"website-url" class=3D"elided-text">
+   =20
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Scannen"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_14" aria-selected=3D"false" aria-rowindex=3D"15" tabindex=3D"-1" ari=
+a-label=3D"Regex Cheat Sheet" style=3D"transform: translate3d(0px, 560px, 0=
+px);"><template shadowmode=3D"open"><!--_html_template_start_--><div id=3D"=
+icon" class=3D"website-icon" style=3D"background-image: image-set(url(&quot=
+;chrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2=
+F%2Fwww.rexegg.com%2Fregex-quickstart.php&amp;allowGoogleServerFallback=3D0=
+&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp=
+;pageUrl=3Dhttps%3A%2F%2Fwww.rexegg.com%2Fregex-quickstart.php&amp;allowGoo=
+gleServerFallback=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"g=
+ridcell"><div id=3D"website-title" class=3D"elided-text" title=3D"Regex Che=
+at Sheet">
+    Regex Cheat Sheet
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://www.=
+rexegg.com/regex-quickstart.php">
+    https://www.rexegg.com/regex-quickstart.php
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Regex Cheat Sheet"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_15" aria-selected=3D"false" aria-rowindex=3D"16" tabindex=3D"-1" ari=
+a-label=3D"regex101: build, test, and debug regex" style=3D"transform: tran=
+slate3d(0px, 600px, 0px);"><template shadowmode=3D"open"><!--_html_template=
+_start_--><div id=3D"icon" class=3D"website-icon" style=3D"background-image=
+: image-set(url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp=
+;pageUrl=3Dhttps%3A%2F%2Fregex101.com%2F&amp;allowGoogleServerFallback=3D0&=
+quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;=
+pageUrl=3Dhttps%3A%2F%2Fregex101.com%2F&amp;allowGoogleServerFallback=3D0&q=
+uot;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"><div id=3D"web=
+site-title" class=3D"elided-text" title=3D"regex101: build, test, and debug=
+ regex">
+    regex101: build, test, and debug regex
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://rege=
+x101.com/">
+    https://regex101.com/
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr regex101: build, test, and debug regex"><template shadowmod=
+e=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_16" aria-selected=3D"false" aria-rowindex=3D"17" tabindex=3D"-1" ari=
+a-label=3D"GSE Cyber Defense - Dokumente - Alle Dokumente" style=3D"transfo=
+rm: translate3d(0px, 640px, 0px);"><template shadowmode=3D"open"><!--_html_=
+template_start_--><div id=3D"icon" class=3D"website-icon" style=3D"backgrou=
+nd-image: image-set(url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=
+=3D1x&amp;pageUrl=3Dhttps%3A%2F%2Fswisscom.sharepoint.com%2Fsites%2Fcyberde=
+fense%2FFreigegebene%2520Dokumente%2FForms%2FAllItems.aspx%3Fovuser%3D364e5=
+b87%252Dc1c7%252D420d%252D9bee%252Dc35d19b557a1%252CPeter%252EFankhauser1%2=
+540swisscom%252Ecom%26OR%3DTeams%252DHL%26CT%3D1738748410724%26clickparams%=
+3DeyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDEyMDEwMDIyM=
+SIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%253D%253D&amp;allowGoogleServerFallba=
+ck=3D0&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D=
+2x&amp;pageUrl=3Dhttps%3A%2F%2Fswisscom.sharepoint.com%2Fsites%2Fcyberdefen=
+se%2FFreigegebene%2520Dokumente%2FForms%2FAllItems.aspx%3Fovuser%3D364e5b87=
+%252Dc1c7%252D420d%252D9bee%252Dc35d19b557a1%252CPeter%252EFankhauser1%2540=
+swisscom%252Ecom%26OR%3DTeams%252DHL%26CT%3D1738748410724%26clickparams%3De=
+yJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNDEyMDEwMDIyMSIs=
+Ikhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%253D%253D&amp;allowGoogleServerFallback=
+=3D0&quot;) 2x);"></div><div id=3D"website-text" role=3D"gridcell"><div id=
+=3D"website-title" class=3D"elided-text" title=3D"GSE Cyber Defense - Dokum=
+ente - Alle Dokumente">
+    GSE Cyber Defense - Dokumente - Alle Dokumente
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://swis=
+scom.sharepoint.com/sites/cyberdefense/Freigegebene%20Dokumente/Forms/AllIt=
+ems.aspx?ovuser=3D364e5b87%2Dc1c7%2D420d%2D9bee%2Dc35d19b557a1%2CPeter%2EFa=
+nkhauser1%40swisscom%2Ecom&amp;OR=3DTeams%2DHL&amp;CT=3D1738748410724&amp;c=
+lickparams=3DeyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yND=
+EyMDEwMDIyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D">
+    https://swisscom.sharepoint.com/sites/cyberdefense/Freigegebene%20Dokum=
+ente/Forms/AllItems.aspx?ovuser=3D364e5b87%2Dc1c7%2D420d%2D9bee%2Dc35d19b55=
+7a1%2CPeter%2EFankhauser1%40swisscom%2Ecom&amp;OR=3DTeams%2DHL&amp;CT=3D173=
+8748410724&amp;clickparams=3DeyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcn=
+Npb24iOiI0OS8yNDEyMDEwMDIyMSIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr GSE Cyber Defense - Dokumente - Alle Dokumente"><template s=
+hadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_17" aria-selected=3D"false" aria-rowindex=3D"18" tabindex=3D"-1" ari=
+a-label=3D"Cybercrimepolice - Ereignis melden" style=3D"transform: translat=
+e3d(0px, 680px, 0px);"><template shadowmode=3D"open"><!--_html_template_sta=
+rt_--><div id=3D"icon" class=3D"website-icon" style=3D"background-image: im=
+age-set(url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pag=
+eUrl=3Dhttps%3A%2F%2Fwww.cybercrimepolice.ch%2Fde%2Fereignis-melden%2F&amp;=
+allowGoogleServerFallback=3D0&quot;) 1x, url(&quot;chrome://favicon2/?size=
+=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dhttps%3A%2F%2Fwww.cybercrimepolice=
+.ch%2Fde%2Fereignis-melden%2F&amp;allowGoogleServerFallback=3D0&quot;) 2x);=
+"></div><div id=3D"website-text" role=3D"gridcell"><div id=3D"website-title=
+" class=3D"elided-text" title=3D"Cybercrimepolice - Ereignis melden">
+    Cybercrimepolice - Ereignis melden
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://www.=
+cybercrimepolice.ch/de/ereignis-melden/">
+    https://www.cybercrimepolice.ch/de/ereignis-melden/
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr Cybercrimepolice - Ereignis melden"><template shadowmode=3D=
+"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_18" aria-selected=3D"false" aria-rowindex=3D"19" tabindex=3D"-1" ari=
+a-label=3D"iBarry" style=3D"transform: translate3d(0px, 720px, 0px);"><temp=
+late shadowmode=3D"open"><!--_html_template_start_--><div id=3D"icon" class=
+=3D"website-icon" style=3D"background-image: image-set(url(&quot;chrome://f=
+avicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%2Fwww.iba=
+rry.ch%2Fde%2F&amp;allowGoogleServerFallback=3D0&quot;) 1x, url(&quot;chrom=
+e://favicon2/?size=3D16&amp;scaleFactor=3D2x&amp;pageUrl=3Dhttps%3A%2F%2Fww=
+w.ibarry.ch%2Fde%2F&amp;allowGoogleServerFallback=3D0&quot;) 2x);"></div><d=
+iv id=3D"website-text" role=3D"gridcell"><div id=3D"website-title" class=3D=
+"elided-text" title=3D"iBarry">
+    iBarry
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://www.=
+ibarry.ch/de/">
+    https://www.ibarry.ch/de/
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr iBarry"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item><bookmarks-item draggable=3D"true" role=3D"row" id=3D"bo=
+okmark_19" aria-selected=3D"false" aria-rowindex=3D"20" tabindex=3D"-1" ari=
+a-label=3D"BACS Startseite" style=3D"transform: translate3d(0px, 760px, 0px=
+);"><template shadowmode=3D"open"><!--_html_template_start_--><div id=3D"ic=
+on" class=3D"website-icon" style=3D"background-image: image-set(url(&quot;c=
+hrome://favicon2/?size=3D16&amp;scaleFactor=3D1x&amp;pageUrl=3Dhttps%3A%2F%=
+2Fwww.ncsc.admin.ch%2Fncsc%2Fde%2Fhome.html&amp;allowGoogleServerFallback=
+=3D0&quot;) 1x, url(&quot;chrome://favicon2/?size=3D16&amp;scaleFactor=3D2x=
+&amp;pageUrl=3Dhttps%3A%2F%2Fwww.ncsc.admin.ch%2Fncsc%2Fde%2Fhome.html&amp;=
+allowGoogleServerFallback=3D0&quot;) 2x);"></div><div id=3D"website-text" r=
+ole=3D"gridcell"><div id=3D"website-title" class=3D"elided-text" title=3D"B=
+ACS Startseite">
+    BACS Startseite
+  </div><div id=3D"website-url" class=3D"elided-text" title=3D"https://www.=
+ncsc.admin.ch/ncsc/de/home.html">
+    https://www.ncsc.admin.ch/ncsc/de/home.html
+  </div></div><div role=3D"gridcell"><cr-icon-button class=3D"icon-more-ver=
+t" id=3D"menuButton" title=3D"Weitere Aktionen" aria-haspopup=3D"menu" role=
+=3D"button" tabindex=3D"0" aria-disabled=3D"false" aria-label=3D"Weitere Ak=
+tionen f=C3=BCr BACS Startseite"><template shadowmode=3D"open"><!---->
+<div id=3D"icon">
+  <div id=3D"maskedImage"></div>
+</div></template></cr-icon-button></div><!--_html_template_end_--></templat=
+e></bookmarks-item></iron-list><!--_html_template_end_--></template></bookm=
+arks-list></div><bookmarks-router></bookmarks-router><bookmarks-command-man=
+ager><template shadowmode=3D"open"><!--_html_template_start_--><cr-action-m=
+enu role-description=3D"Men=C3=BC"><template shadowmode=3D"open"><!---->
+<dialog id=3D"dialog" part=3D"dialog" role=3D"application" aria-roledescrip=
+tion=3D"Men=C3=BC" style=3D"top: 12px; left: 1040px;">
+  <div id=3D"wrapper" class=3D"item-wrapper" role=3D"menu" tabindex=3D"-1">
+    <slot id=3D"contentNode"></slot>
+  </div>
+</dialog></template><dom-repeat as=3D"command" style=3D"display: none;"><te=
+mplate is=3D"dom-repeat"></template></dom-repeat></cr-action-menu><cr-lazy-=
+render id=3D"dropdown"><template shadowmode=3D"open"><slot></slot></templat=
+e><template></template></cr-lazy-render><cr-lazy-render id=3D"editDialog"><=
+template shadowmode=3D"open"><slot></slot></template><template></template><=
+/cr-lazy-render><cr-lazy-render id=3D"openDialog"><template shadowmode=3D"o=
+pen"><slot></slot></template><template></template></cr-lazy-render><!--_htm=
+l_template_end_--></template></bookmarks-command-manager><cr-toast-manager =
+duration=3D"10000"><template shadowmode=3D"open"><!---->
+<cr-toast id=3D"toast"><template shadowmode=3D"open"><!----><slot></slot></=
+template>
+  <div id=3D"content" class=3D"elided-text"></div>
+  <slot id=3D"slotted"></slot>
+</cr-toast></template><cr-button aria-label=3D"&quot;Strg&nbsp;+&nbsp;Z&quo=
+t; dr=C3=BCcken, um Aktion r=C3=BCckg=C3=A4ngig zu machen" role=3D"button" =
+tabindex=3D"0" aria-disabled=3D"false"><template shadowmode=3D"open"><!----=
+>
+<div id=3D"background"></div>
+<slot id=3D"prefixIcon" name=3D"prefix-icon">
+</slot>
+<span id=3D"content"><slot></slot></span>
+<slot id=3D"suffixIcon" name=3D"suffix-icon">
+</slot>
+<div id=3D"hoverBackground" part=3D"hoverBackground"></div></template>
+    R=C3=BCckg=C3=A4ngig
+  </cr-button></cr-toast-manager><!--_html_template_end_--></template></boo=
+kmarks-app>
+  <link rel=3D"stylesheet" href=3D"chrome://resources/css/text_defaults_md.=
+css">
+ =20
+
+
+<cr-a11y-announcer><template shadowmode=3D"open"><!--_html_template_start_-=
+->
+
+<div id=3D"messages" role=3D"alert" aria-live=3D"polite" aria-relevant=3D"a=
+dditions"><div>0 ausgew=C3=A4hlt</div><div>20&nbsp;Elemente in der Lesezeic=
+henliste</div></div>
+<!--_html_template_end_--></template></cr-a11y-announcer></body></html>
+------MultipartBoundary--jJph5AaycGpDKDJo6uCMZzobjsFP9jVBlCpSn9BNv6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://resources/css/text_defaults_md.css
+
+@charset "utf-8";
+
+body { font-family: "Segoe UI", Tahoma, sans-serif; font-size: 81.25%; }
+
+button { font-family: "Segoe UI", Tahoma, sans-serif; }
+------MultipartBoundary--jJph5AaycGpDKDJo6uCMZzobjsFP9jVBlCpSn9BNv6----
+Content-Type: image/svg+xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://resources/images/chrome_logo_dark.svg
+
+<svg width=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" xmlns=
+=3D"http://www.w3.org/2000/svg"><g clip-path=3D"url(#a)" fill=3D"#fff"><pat=
+h d=3D"M5.225 10.265A6.996 6.996 0 0 1 12 5h9.733a11.976 11.976 0 0 0-19.51=
+2.061l3.004 5.204zM22.898 7h-6.003a6.979 6.979 0 0 1 1.162 8.498l.008.004-4=
+.872 8.438A11.98 11.98 0 0 0 22.898 7zm-9.009 11.735A6.964 6.964 0 0 1 5.94=
+4 15.5l-.004.002-4.87-8.435a11.98 11.98 0 0 0 9.812 16.877l3.007-5.21z"/><p=
+ath d=3D"M12 17a5 5 0 1 0 0-10 5 5 0 0 0 0 10z"/></g><defs><clipPath id=3D"=
+a"><path fill=3D"#fff" d=3D"M0 0h24v24H0z"/></clipPath></defs></svg>
+------MultipartBoundary--jJph5AaycGpDKDJo6uCMZzobjsFP9jVBlCpSn9BNv6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: chrome://resources/css/md_colors.css
+
+@charset "utf-8";
+
+html { --md-background-color: rgb(248, 249, 250); --md-loading-message-colo=
+r: #6e6e6e; --md-toolbar-height: 56px; --md-toolbar-border: 1px solid #e0e0=
+e0; }
+
+@media (prefers-color-scheme: dark) {
+  html { --md-background-color: rgb(32, 33, 36); --md-loading-message-color=
+: #9AA0A6; --md-toolbar-border: 1px solid rgba(255, 255, 255, .1); }
+}
+------MultipartBoundary--jJph5AaycGpDKDJo6uCMZzobjsFP9jVBlCpSn9BNv6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d10d648d-8475-4f06-936a-5c2d655a61f1@mhtml.blink
+
+@charset "utf-8";
+
+html { touch-action: manipulation; }
+
+html, body { height: 100%; margin: 0px; overflow: hidden; }
+
+@media (prefers-color-scheme: dark) {
+  html { background: var(--md-background-color); }
+}
+------MultipartBoundary--jJph5AaycGpDKDJo6uCMZzobjsFP9jVBlCpSn9BNv6------
