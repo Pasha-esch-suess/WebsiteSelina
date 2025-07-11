@@ -36,13 +36,15 @@ header {
         height: auto;
     }
 
-    .navbare .gifrocket img {
-        width: 13%;
-        height: auto;
-        transform: rotate(133deg);
-        margin-left: 50%;
-        display: flex;
-    }
+.navbare .gifrocket img {
+    width: 13%;
+    height: auto;
+    transform: rotate(133deg);
+    margin-left: 50%;
+    display: flex;
+    width: 10%;
+    height: auto;
+}
 
     .navbar .logo img {
         width: 80px;
@@ -363,8 +365,6 @@ footer {
     background-color: #565e9b;
     margin: 0;
     padding: 0;
-    border-width: 0;
-    border-color: pink;
 }
 
     .hero img {
@@ -380,8 +380,8 @@ footer {
 .navbaer {
     display: flex;
     align-items: center;
-    background-color: #3b4b33;
-    color: white;
+    background-color: #597168;
+    color: #4b5049;
     padding: 10px;
     position: fixed;
     top: 20px;
@@ -414,7 +414,7 @@ footer {
         }
 
             .navbaer nav ul li a {
-                color: white;
+                color: #dad9d9;
                 text-decoration: none;
                 font-weight: bold;
             }
@@ -431,8 +431,8 @@ footer {
     text-align: center;
     align-self: center;
     padding: 2%;
-    background-color: #61925d;
-    color: #2f3c28;
+    background-color: #79968e;
+    color: #4b5049;
     font-size: 25px;
 }
 
@@ -441,8 +441,8 @@ footer {
     text-align: center;
     align-self: center;
     padding: 2%;
-    background-color: #61925d;
-    color: #2f3c28;
+    background-color: #79968e;
+    color: #4b5049;
     font-size: 25px;
 }
 .PAContact {
@@ -450,8 +450,8 @@ footer {
     text-align: center;
     align-self: center;
     padding: 2%;
-    background-color: #61925d;
-    color: #2f3c28;
+    background-color: #79968e;
+    color: #4b5049;
     font-size: 25px;
 }
 
@@ -459,8 +459,8 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-color: #b1d6ab;
-    color: #2f3c28;
+    background-color: #8abab4;
+    color: #4b5049;
 }
 
 
@@ -468,8 +468,8 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-color: #b1d6ab;
-    color: #2f3c28;
+    background-color: #8abab4;
+    color: #4b5049;
 }
 
 .column {
@@ -492,8 +492,8 @@ footer {
     display: flex;
     justify-content: space-between;
     padding: 20px;
-    background-color: #b1d6ab;
-    color: #2f3c28;
+    background-color: #8abab4;
+    color: #4b5049;
 }
 .ort  {
     margin-left:10%;
